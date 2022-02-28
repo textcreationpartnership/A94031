@@ -1,0 +1,703 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The strange vvitch at Greenvvich, (ghost, spirit, or hobgoblin) haunting a wench, late servant to a miser, suspected a murtherer of his late vvife: with curious discussions of walking spirits and spectars of dead men departed, for rare and mysticall knowledge and discourse, / by Hieronymus Magomastix. April 24. 1650. Imprimatur. John Dovvname.</title>
+            <author>Hieronymus Magomastix.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 82 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94031</idno>
+            <idno type="STC">Wing S5920</idno>
+            <idno type="STC">Thomason E600_15</idno>
+            <idno type="STC">ESTC R206398</idno>
+            <idno type="EEBO-CITATION">99865558</idno>
+            <idno type="PROQUEST">99865558</idno>
+            <idno type="VID">117803</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94031)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117803)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 92:E600[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The strange vvitch at Greenvvich, (ghost, spirit, or hobgoblin) haunting a wench, late servant to a miser, suspected a murtherer of his late vvife: with curious discussions of walking spirits and spectars of dead men departed, for rare and mysticall knowledge and discourse, / by Hieronymus Magomastix. April 24. 1650. Imprimatur. John Dovvname.</title>
+                  <author>Hieronymus Magomastix.</author>
+               </titleStmt>
+               <extent>[2], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Harper, and are to be sold by John Saywell, at the Greyhound in Little Britaine,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May. 14.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ghosts --  Great Britain --  Early works to 1800.</term>
+               <term>Spirits --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117803:1" rendition="simple:additions"/>
+            <head>The ſtrange VVITCH AT GREENVVICH, (Ghoſt, Spirit, or Hobgoblin) haunting a Wench, late ſervant to a Miſer, ſuſpected a Murtherer of his late VVife: With curious Diſcuſſions of walking ſpirits and ſpectars of dead Men departed, for rare and myſticall knowledge and diſcourſe, By HIERONYMUS MAGOMASTIX.</head>
+            <p>
+               <hi>Eme Lyſippo, novos, tota ſonat <g ref="char:V">Ʋ</g>rbe, Libellos.</hi>
+            </p>
+            <p>April 24. 1650. <hi>Imprimatur.</hi> JOHN DOVVNAME.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Thomas Harper,</hi> and are to be ſold by <hi>John Saywell,</hi> at the Greyhound in Little Britaine, 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:117803:2"/>
+            <pb n="1" facs="tcp:117803:2"/>
+            <head>The ſtrange Witch at Greenwich, &amp;c.</head>
+            <sp>
+               <speaker>Scepticus.</speaker>
+               <p>
+                  <seg rend="decorInit">R</seg>Everend Sir, though my acquaintance bee but yong with you, yet imboldened upon theſe extraordinary curteſies, I lately received from you (ever obliging my gratitude) by your candid imparting unto mee your lear<g ref="char:EOLhyphen"/>ned notions, to my full anchoring and ſet<g ref="char:EOLhyphen"/>ling in ſuch poynts and doubts as before, I was toſſed and troubled in unſetled fluctua<g ref="char:EOLhyphen"/>tions, as I then (I thanke you) thraſhed out of your full mow, and lighted my darke torch at your bright flame; lapping as a poore Poet out of your Homericall Baſin: ſo knowing you are as willing to improve your able parts for publick and private good to the inlivening and inlightning of ſuch weake tenuities as mine, as a full dugd Mother or Nurſe to communicate her milke to a hungry childe, as the Sunne lends her light to the Moone, Starres, and Plannets, and his influence to the ſublunaries, ſince <hi>bonum quo com<g ref="char:EOLhyphen"/>munius co melius,</hi> good the more common it is, the more commen<g ref="char:EOLhyphen"/>dable; as a poore Beggar who knowes the way willingly to the houſe againe where hee received a Rich Almes: I make bold to thruſt my ſelfe further upon your favours ſo far, as that you would bee pleaſed to informe mee both in the <hi>quid, quale, &amp; quomodo,</hi> of the Reports in every mans tongue (more common then the cough and fleame in an old womans mouth, or Oaths and God dam mees, in the mouths of ſome Roarers) of a ſtrange Witch or Ghoſt now at your Greenwich, haunting the houſe of one <hi>Meriday,</hi> and playing ſtrange prankes by throwing ſtones at the glaſſe windowes, making
+<pb n="2" facs="tcp:117803:3"/>the ſtooles, chaires, and other utenſills daunce Sellengers round, or rather (according to the Muſick of theſe Times, turnde all frets) paſ<g ref="char:EOLhyphen"/>ſing meaſure in lofty levaltoes, without either Welſh Ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pe, Jewes Trumpe, Scotch Bagpipe, or Engliſh diſorder (I ſhould ſay Recorder) throwing alſo Bookes, yea the Teſtament into the fire, as though it cared as little for it, as a new Enthuſiaſt, Papiſt, or an Athieſt, peer<g ref="char:EOLhyphen"/>king the ladle out of the Wives boyling pot below, as high as into the Husbands bed above; putting the Husbands breeches upon the Wives head (as though the Grey Mare were the better Horſe) not in<g ref="char:EOLhyphen"/>during that a boy ſhould bee too captious or capritious throwing the boyes cap into the chimnyes ſmoake, yea as a Lord of miſtule, brea<g ref="char:EOLhyphen"/>king earthen pots (as faſt as ſome Merchants and Bankrouts in theſe broken and breaking Times) with other ſuch reakes and mad merry pranks, as ſtrange as ever Hobgoblins, pinching Fairies, and <hi>Robin</hi> Goodfellow acted in houſes in old Times amongſt Dayry Wenches, and Kitchin Maids.</p>
+            </sp>
+            <sp>
+               <speaker>Veridicus.</speaker>
+               <p>Though uſually <hi>fama mendax,</hi> fame bee as lying as flying, growne much bigger (like Snow Balls) by tumbling from mouth to mouth, yet to anſwer you in your Jocoſerious ſtraine what you have related, and much more as of much more authentick credit, then what the Popiſh Proſelites believe as Goſpell truth in their lea<g ref="char:EOLhyphen"/>den Legends of St. <hi>Dennyes</hi> and St. <hi>Guthmar,</hi> taking their heads in their hands, and burying them when they were cut off; of <hi>Justina</hi> (being a right woman) who ſpoke when her tongue was cut out; of St. <hi>Tryar</hi> who cauſed a ſheepe (as moſt blabbing meate) to bleate in a Thieves belly, who had eate it; of St. <hi>Francis</hi> who cauſed a Wolfe to leave woarying Sheepe, calling him brother Wolfe; of the ſtones who ſayd Amen, venerable <hi>Bede,</hi> when hee had ended his Sermon; of St. <hi>Cuthbert</hi> who made the Crowes doe pennance (in black ſheetes) for pulling the thatch off his houſe; of St. <hi>Dominîck</hi> who tooke up his bookes falne into the Sea as dry as duſt, and of St. <hi>Margaret</hi> who by the ſigne of the all wonder working croſſe, cau<g ref="char:EOLhyphen"/>ſed a Spider which ſhee had ſwallowed come out at her legge by a little ſcratching, with a number ſuch like, which they ſcrape, and ſcratch, and patch together like ſhreds in a Beggars Cloake to make up a fardle of fooleries, and a bundle of bables; for as I have exa<g ref="char:EOLhyphen"/>mined the truth of theſe things you have related, not onely from the Wife, Sonne, and Daughter of that <hi>Merryday,</hi> but from Maſter
+<pb n="3" facs="tcp:117803:3"/>
+                  <hi>Halſepenny</hi> and his Wife, who ſaw a Laundyron of it ſelf without any viſible mover leape out of the fire, a Candleſtick skippe up into the chamber, as other Neighbours other ſuch poſtures as true as ſtrange, hearing alſo ſtrange noiſes and ratlings, as of Carts or Waynes rum<g ref="char:EOLhyphen"/>bling up and downe the houſe when the doores have been lockt, and except a Cat or Rat, no viſible Creature within; ſo I my ſelfe being one night with much company in the houſe, as wee went out a round ſtone was throwne at my Daughters heeles: another time as I was in the houſe with the old Wife and two Children, as I went into the Garden a knife was throwne after mee, which I tooke up, and with vehemency threw back againe to the very place from whence it came, daring the Witch or Spirit to throw it at mee againe, and conjuring it in the name of that Jeſus which is terrible to Divells to ſpeake un<g ref="char:EOLhyphen"/>to mee, and to reveale the reaſon why it haunted the houſe, and to re<g ref="char:EOLhyphen"/>turne to it own place; but I had no reply, neither by voice or geſture.</p>
+            </sp>
+            <sp>
+               <speaker>Scept.</speaker>
+               <p>But did you not in this caſe uſe exorciſmes, which you ſo condemne in Prieſts and Jeſuites?</p>
+            </sp>
+            <sp>
+               <speaker>Verid.</speaker>
+               <p>I know well both <hi>Durand</hi> in the Rites of his Church (<hi>lib.</hi> 1. <hi>cap.</hi> 19.) and <hi>Thiraeus (de Demonibus part.</hi> 3.) and <hi>Delri<g ref="char:EOLhyphen"/>us</hi> in his Magicall diſquiſitions (<hi>Tom.</hi> 3.) and <hi>Bellarmine,</hi> and the <hi>Rhemiſts</hi> upon <hi>Timothy,</hi> 1 <hi>Cor.</hi> 3. and all the Rabble of them, make exorciſme or adjuration of Spirits, one of the diſorderly Orders of their Church, and they joyne it with the <hi>Acolythites, Oſtiarians</hi> Readers, Prieſts, and Deacons, and <hi>Briſtow</hi> in his Motives, <hi>Bozius</hi> and <hi>Campian</hi> make it one of the Notes of their Church, as the chiefe of their Miracles, and both <hi>Staphilus</hi> and <hi>Smediline,</hi> page 404. and <hi>Lindan</hi> in his Dialogues (<hi>dial.</hi> 3. <hi>cap.</hi> 1.) and <hi>Bredenbachius</hi> in his Collations, <hi>lib.</hi> 7. <hi>cap.</hi> 40. <hi>&amp; cap.</hi> 42. ſcoffe at <hi>Luther,</hi> and his Proteſtants, becauſe they cannot conjure Spirits, which they ſay was attempted to their great ſcaith and ſcorne, both in <hi>Wittemb<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rge, An<g ref="char:EOLhyphen"/>no</hi> 1545. and elſe where <hi>Anno</hi> 1563. I know alſo that they pre<g ref="char:EOLhyphen"/>tend this exorcizing of Spirits came from <hi>Solomon,</hi> and ſo according to <hi>Origen (tract.</hi> 35. <hi>in Math.</hi>) they make it Judaicall, and conſe<g ref="char:EOLhyphen"/>quently (ſince according to <hi>Junius, Judizare eſt Christum denegare</hi>) they deny Chriſt and his Goſpel by Judaizing; I know alſo <hi>Tertullian</hi> in his Preſcriptions, <hi>cap.</hi> 4. deny this power unto women, yet they brag of their <hi>Catharine de Siena,</hi> St. <hi>Bridget Genoveir, Anatolia, Euphraſia, Hildegund,</hi> and others, that they had this prero<g ref="char:EOLhyphen"/>gative
+<pb n="4" facs="tcp:117803:4"/>over Spirits, yet nevertheleſſe what I did in adjuring the ſpi<g ref="char:EOLhyphen"/>rit in a lawfull calling, <hi>ſe defendeudo,</hi> in defending my ſelfe from it, when it aſſaulted mee by a knife throwne at mee, in uſing againſt it the name of Ieſus, (which according to <hi>Tertullian</hi> to <hi>Triphon, Lac<g ref="char:EOLhyphen"/>tantius</hi> in his Inſtitutions, <hi>lib.</hi> 4 <hi>cap.</hi> 17. and <hi>Athanaſius</hi> in the life of <hi>Anthony</hi> is ſo terrible unto, and powerfull againſt Devills) my act was ſo far diſcrepant from the practice of the Popiſh Prieſts in their ordinary adjurations, like the ſonnes of <hi>Sceva,</hi> Acts <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6 14. in a foo<g ref="char:EOLhyphen"/>liſh imitation and uſurpation of that power which Chriſt gave his Apoſtles, Luke 10.19. (interpreted by <hi>Athanaſius</hi> in Pſal. 28. and <hi>Boſterus in locum</hi>) as there is diſcrepance betwixt true Miracles (theſe ſometimes of <hi>Jannes</hi> and <hi>Jambres</hi> of the primitive He<g ref="char:EOLhyphen"/>retiques, and our moderne ſuperſtitious Papiſts,) which by degrees wee ſhall bring to the teſt and touchſtone.</p>
+            </sp>
+            <sp>
+               <speaker>Scept.</speaker>
+               <p>I know well this power of adjuring ſpirits, was not only Apoſtolicall, but it continued for ſome times in the nonage and infan<g ref="char:EOLhyphen"/>cy of the Church after the Apoſtles, for the confirmation of the faith both of the Chriſtians and the Gentiles out of whom no ſpi<g ref="char:EOLhyphen"/>rits could bee diſpoſſeſſed but by Chriſtians, as wee may ſee in <hi>Ter<g ref="char:EOLhyphen"/>tullians</hi> Apology (<hi>cap.</hi> 23.) and to <hi>Scapula, cap.</hi> 2. and in <hi>Cyprian (Epiſt.</hi> 2. <hi>&amp;</hi> 76.) <hi>Minutius (in Octavio)</hi> with <hi>Athanaſtus, Pruden<g ref="char:EOLhyphen"/>tius, Justin,</hi> and others; but for every mumbling Prieſt to mono<g ref="char:EOLhyphen"/>polize it, and to have that power over demonaicks which Chriſt had himſelfe, and did onely delegate to his Diſciples: yea to take upon them to exerciſe this their exorcizings of ſpiris out of yong Children, in baptiſme, when a pocky Prieſt (in King <hi>James</hi> his phraſe) ſpits in a Childes mouth, this is as ridiculous as groſſe and ſuperſtitious.</p>
+            </sp>
+            <sp>
+               <speaker>Verid.</speaker>
+               <p>It cannot bee denyed that children are in nature the chil<g ref="char:EOLhyphen"/>dren of wrath, <hi>Epheſ.</hi> 2.2. born in ſinne with <hi>David,</hi> Pſal. 51. none being exempted from the infection of originall ſinne, not <hi>John</hi> the Baptiſt, <hi>Jeremy,</hi> or the Virgin Mother (ſave onely the Saviour of ſin<g ref="char:EOLhyphen"/>ners) yea perhaps by reaſon of this originall ſinne derived not by imſtation as Pelagians grant but by propagation as hereditary di<g ref="char:EOLhyphen"/>ſeaſes uſually, even Infants may bee vexed and troubled with ſpirits, as <hi>Auguſtine</hi> affirmes in his City of God (<hi>lib.</hi> 21. <hi>cap.</hi> 14. <hi>&amp; lib.</hi> 22. <hi>cap.</hi> 22.) yet to exorciſe them after the faſhion of Popiſh Prieſts in Baptiſme (which was never uſed to the jewiſh Children by Levi<g ref="char:EOLhyphen"/>ticall Prieſts in circumciſion) hath neither Precept from Chriſt inſti<g ref="char:EOLhyphen"/>tuting
+<pb n="5" facs="tcp:117803:4"/>Baptiſme, nor practiſe, that I read of in the Primitive Church; but like their Auricular confeſſion, adoration, and circum<g ref="char:EOLhyphen"/>geſtation of the breaden God, denegation of marriage to Miniſters, vowes of poverty, continency and ſingle life; and much ſuch like trumpery (with <hi>Jonas</hi> his Gourd) it hath growne up of it ſelfe: and therefore being no Plant of Chriſts planting, with moſt of their wild Gourds, and wild Olives; they and it muſt wither, being without any root or grafting, Math. 15 John 15.</p>
+            </sp>
+            <sp>
+               <speaker>Scept.</speaker>
+               <p>But leaving theſe deep diſcuſſions, I pray you proceed in your plaine ſtory of this houſe hanted by Witches: I have heard of moſt of theſe Pageants you have related were onely done by the wily Wench, who was ſervant to the woman taken out of her grave, up<g ref="char:EOLhyphen"/>on ſuſpition of her unnaturall death: and that ſhe hath troubled and blundered the Waters, and made all this poother, to call her late Maſter in queſtion about the death of his Wife.</p>
+            </sp>
+            <sp>
+               <speaker>Verid.</speaker>
+               <p>It's very true, that bold faced brazen brow'd wench hath had a great finger in the Pye, and hath been a great ſtickler in theſe Pageants; for I have had her in ſerious examination, and I have with much adoe wreſted from her thus much: that being one day in her mothers garden, ſome three weeks after her Dames death, that a ſtone was throwne at her, and hit her on the back, none being neare her, nor within her ſight; at which ſhe much marvelling from whence it ſhould come, ſhe tooke up the ſtone, looked ſeriouſly up<g ref="char:EOLhyphen"/>on it, carried it up and downe the Garden, with as much pride and complacency, as admiration: upon which Sathan vehemently tempted her to throw it againſt her mothers window, which this o<g ref="char:EOLhyphen"/>bedient vaſſall did accordingly. Upon which ſhe ſetting the De<g ref="char:EOLhyphen"/>vill a worke, as he her, as ſhe broke the ice, an ill ſpirit hath waded and thrown ſorty ſtones ſince (as forty can teſtifie) at the ſame win<g ref="char:EOLhyphen"/>dows, no viſible hand being ſince, not any <hi>terminus a que,</hi> locall place diſcerned from whence, or how they ſhould come.</p>
+            </sp>
+            <sp>
+               <speaker>Scept.</speaker>
+               <p>And is this all ſhe hath confeſſed<g ref="char:punc">▪</g>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Verid.</speaker>
+               <p>Without much wreſting and ſpunging ſhee hath freely and penitentially acknowledged both to my ſelfe and others, that ſince that ſtone throwne in the Garden, ſhee her ſelfe in a paltry pride to aggravate the Report of ſpirit haunting behinde peoples backs, when ſhee thought ſhee was free from being ſeene, hath often in acting and counterfeiting the ſpirit, throwne ſtooles, cuſhions, can<g ref="char:EOLhyphen"/>dleſticks,
+<pb n="6" facs="tcp:117803:5"/>diſhes, and kept the like Revill Ruſh; and indeede ſo long goes the Pitcher to the Well, that at laſt it comes home broake. Sa<g ref="char:EOLhyphen"/>than catcht her in her owne ſnare, being by a yong man taken trip<g ref="char:EOLhyphen"/>ping in the very act, as ſhee caſt a great chip out of a chamber downe the ſtaires into the houſe where many people were.</p>
+            </sp>
+            <sp>
+               <speaker>Scept.</speaker>
+               <p>But as the phraſe is, that a pudding hath two ends, what one good end had ſhee in this wickedly, witty folly and knavery?</p>
+            </sp>
+            <sp>
+               <speaker>Verid.</speaker>
+               <p>You have anſwered your ſelfe and unriddled your owne queſtion; for it was wicked witty folly indeed in a yong Impe of 14 yeare old, that had more wit to doe wickedly, then grace to doe good; her fantaſticalities being ſuch mixtures as bee in ſome Tarl<g ref="char:EOLhyphen"/>tanonized leaſters and Baffons of ingenious folly and ſerpentive kna<g ref="char:EOLhyphen"/>very; as there bee the two ſpecies of a Horſe and an Aſſe, in a Mule; of a Dogge and an Ape in a Cynocephalift; of a Leopard and Cam<g ref="char:EOLhyphen"/>mell in a Camelopardis, and of ignorance and arrogance in ſome ſelfe conceited fantaſtick.</p>
+            </sp>
+            <sp>
+               <speaker>Scept.</speaker>
+               <p>And was this the <hi>primus motor,</hi> and maine originall that ſet her a worke?</p>
+            </sp>
+            <sp>
+               <speaker>Verid.</speaker>
+               <p>Theſe her inward principles and corruptions which you ſee how ſoone they begin to worke and act in our degenerate nature, they were as ſparkes fuellized by Sathan, who as ſhee told mee with ſad lookes and ſighes (but with as many teares as milſtones) upon the throwing of her firſt ſtone, entered into her as into <hi>Judas</hi> and <hi>Ananias,</hi> and others, and vehemently tempted her to act all theſe parts, which I have recited, and many more; baiting his hooke with many deluſive promiſes, that if ſhee would go on as ſhee had begun, what ſhee did ſhould never bee knowne, and that hee would never forſake her, as its probable hee will bee as good as his word (as a ſhame to ſome of his officers) banquerouts, Politicians &amp; Impoſtors, who breake their words as <hi>Sampſon</hi> broke his cords, and dally with promiſes, as Children with Bables, and old Flowers throwne by, as old Ladders after their ends bee climbed and ſhaken off, as Foxes doe their Fleas.</p>
+            </sp>
+            <sp>
+               <speaker>Scept.</speaker>
+               <p>But not to jeaſt with the times which is to touch the Ly<g ref="char:EOLhyphen"/>ons paw, or play with his beard. I ſee give the Divell an inch, and hee will take an ell, ſup of his broth, and cate of his roaſt-meate, it being dangerous to give his waters the leaſt paſſage, or to entertaine the leaſt ſparke of his helliſh heates into a harboring heart, but <hi>prin<g ref="char:EOLhyphen"/>cipiis
+<pb n="7" facs="tcp:117803:5"/>obstare</hi> to reſiſt him in the beginning, to quench his ſparkes with prayers and teares in the firſt kindling, to cruſh his injected temptations, as yong Serpents in the heads, and Cocatrices in their ſhells; yea to pump them out as water out of a ſhippe as faſt as they leaker or daſh in: This infernall Fox or Serpent wreſting in himſelfe whole, where hee gets but in his head, like a hungry Dogge follow<g ref="char:EOLhyphen"/>ing ſtill for more, if hee get but one luring cruſt to intice him on.</p>
+               <p>I ſee alſo how ſoone theſe yong things, God leaving them to them<g ref="char:EOLhyphen"/>ſelves, and to their ſtrong ſoone budding corruptions, like ſoft Waxe, take ſuddaine Sathanicall Impreſſions, like that yong Pythoniſt or Ventriloquiſt, who got her Maſters much gaine by Southſayings, <hi>Acts</hi> 16. and that yong baggage, who like the cackling of a Hen, that <hi>Peter</hi> was a Galilean made that Cock cry Craven, to the deny<g ref="char:EOLhyphen"/>ing of his Maſter, <hi>Math.</hi> 27. and that yong <hi>Herodias</hi> in whom the Divell daunced, faith <hi>Chryſostome,</hi> till her round turnings and mimi<g ref="char:EOLhyphen"/>call geſtures layd <hi>John</hi> Baptiſts round head in a platter, <hi>Marke</hi> 6. and many yong wily Wenches in our Times, ſome diſcovered by Doctour <hi>Harſuet,</hi> ſome by <hi>Deakon</hi> and <hi>Walker,</hi> in their printed Dialogui<g ref="char:EOLhyphen"/>zings, and ſome by deepe and judicious King <hi>James,</hi> to have playd ſtrange reakes by the tutorings and impoſtures of Fryars and Jeſuits, and by the trainings of ſome old Witches and Wizzards both black and white; and indeede I have a ſtrong jealouſie that this Impe hath a laire Father or laire-mother (beſides Sathan the Father of all impo<g ref="char:EOLhyphen"/>ſtures) ſome hee or ſhee Witch, who traines her (beſides theſe Leger<g ref="char:EOLhyphen"/>demaines) even in Wichcraft it ſelfe.</p>
+            </sp>
+            <sp>
+               <speaker>Verid.</speaker>
+               <p>Truely my jealouſies and ſuſpitions in this kinde have been and ſtill are as ſtrong as yours; that as the old Cocks crow, the yong ones learne; and for this purpoſe I have toucht every ſtring, rowled every ſtone, improved all my beſt by my ſelfe and friends to finde out the old ſerpent of this young ſpawne, and by this Cubbe, I have uſed all the Terriers of my beſt wits to hunt the old Foxe to the hole to trap her teachers; but though much ſuſpected, nothing yet can be detected: Yea I have dealt by all wayes and meanes with the Wench faire and foule, menaces, threatnings, and promiſes to reveale her Magicall Tutreſſe; but as ſhee is as ſubtile as a yong ſerpent, I can get no more out of her then water out of a ſtone, or Oyle from a Pumice, whether guilty or not guilty, I thinke an Engliſh Rack, or Spaniſh ſtrappado would no more get it out of her, then <hi>Auſtogiton
+<pb n="8" facs="tcp:117803:6"/>Leaena</hi> and <hi>Hermodius</hi> confeſſed in tortures: Unleſſe wee could diſ<g ref="char:EOLhyphen"/>cover her, as now the Scotch Witches by water Ordeall (as once a<g ref="char:EOLhyphen"/>mongſt the old Saxons) I thinke its as hard to finde her out in any Witchcrafts, as to finde out theſe minotaures Caniballs and Cormo<g ref="char:EOLhyphen"/>rants, who have devoured into the Cu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tian gulph of their owne cof<g ref="char:EOLhyphen"/>fers, all theſe vaſt ſummes of moneys even many thouſands which they have as ſacrilegious thieves received, deceived, from the charity of Holland London, England, to the reliefe of the poore hunger ſtarved Proteſtants from <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reland, ſo ſhearing the Ape, robbing the Spittle for <hi>Achans</hi> wedge, and unproſperous <hi>Tholous</hi> Gold, till the hooke of vengeance ſtick in the jawes of in juſtice, <hi>Joh</hi> 20.10.11.12.13.14.</p>
+            </sp>
+            <sp>
+               <speaker>Scept.</speaker>
+               <p>indeede Murther, Treaſon, Witchcraft, Theft, Couſenage, chiefely walking in a Fox furd Gowne, are as hard to bee found out, as the head of <hi>Nilus,</hi> or as an Officer who ſmoothly licks his yellow duſted fingers, as the Harlot her lippes, and ſaith I have not ſinned, more then ſome Taylor (ſtealer) who lookes up to Heaven till hee throw Sathan into Hell hole, proteſting hee takes nothing but that which is brought to him, but leaving theſe digreſſions upon unrefor<g ref="char:EOLhyphen"/>med, yea unqueſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oned tranſgreſſions, ſome have a great jealouſie of the old Wife her Mother in Law, that ſhee ſhould bee looſe in the haft, and not ſo good as ſhee ſhould bee; yea that ſhee ſhould have a great hand, head or heart in theſe witchly or ſpiritly poſtures, as though by ſome explicite or implicite compact with Sathan, ſhee ſhould delude the world by theſe faſcinations, what think you of her?</p>
+            </sp>
+            <sp>
+               <speaker>Verid.</speaker>
+               <p>Charity bids mee thinke the beſt of her, and forbids mee to judge raſhly of her leſt I enter into a premunire againſt God, who is onely the fearcher of the Reines; I have no win<g ref="char:EOLhyphen"/>dows into her heart, and for her outward carriage it is ſo candid, ſquare and faire, that I ſee no cauſe either in Reaſon or Religion to ſuſpect her, unleſſe upon ſome grounding probabilities I could de<g ref="char:EOLhyphen"/>rect her; ſhee ſeemes to me to bee ſo paſſive in the premiſes, yea ſo paſſionate and compaſſionate in all the paſſages recited, ſo ſtrong in faith, ſo frequent and fervent in prayer, ſo zealous in her devotions, ſo ſincerely ſubordinate to all ordinances publick and private, that if ſhee bee any way active in this baſe buſineſſe, either in complotting, contriving, confederating, councelling, conſenting, countenancing, or concealing: I ſhall not onely ſay hypocriſie is ſpunne with a faire
+<pb n="9" facs="tcp:117803:6"/>thread, and that all is not Gold that gliſters; but that ſhee were a worſe ſhee Divell, yea white Divell for a woman, then <hi>Judas</hi> for a man, whoſe hypocriſie (like a dunghill under a great ſnow unmelted) was ſo long ere it was diſcovered, <hi>John</hi> 13.</p>
+            </sp>
+            <sp>
+               <speaker>Scept.</speaker>
+               <p>If then neither the old woman of the houſe have been the Authour of nor Actor in theſe motions and moleſtations, nor any Witcheraft can bee detected, its probable the Wench acts all her ſelf with her owne hands by legerdemaine.</p>
+            </sp>
+            <sp>
+               <speaker>Verid.</speaker>
+               <p>Something ſhee doth, but not all, for ſollid witneſſes <hi>om<g ref="char:EOLhyphen"/>ni exceptione majores,</hi> beyond all exception will depoſe if neede bee, (as I will by theſe premiſes lay ten pounds to ten ſhillings againſt any Sceptick or <hi>Junior Didimu</hi> that will not believe what I relate) that ſtooles in the houſe, ſticks out of the fire, Laundyrons out of the chim<g ref="char:EOLhyphen"/>ney have removed of themſelves, and other things alſo, they looking on, and ſeeing nothing move them more then they ſee, a voice, a found, a wind, a noiſe, a ſoule in man, or their owne hearts, which they perceive really, though they ſee nothing viſibly.</p>
+            </sp>
+            <sp>
+               <speaker>Scept.</speaker>
+               <p>Then theſe motions from an inviſible Agent, come either from a Witch ſet a worke by the Wench, or by ſome others, or elſe it is the Ghoſt or Spirit of the dead woman her late Dame which walkes, as I will aſſure you many in the Towne, and moſt in the Countrey ere ſhee was rooke out of her Grave, did believe as their Creed verily and aſſuredly.</p>
+            </sp>
+            <sp>
+               <speaker>Verid.</speaker>
+               <p>But as a woman being askt by <hi>Bonner,</hi> if ſhee believed not Chriſts body and blood to bee in the Sacrament ſubſtantially and re<g ref="char:EOLhyphen"/>ally? Shee told him it was a ſubſtantiall lye, and a reall lye; ſo I aſ<g ref="char:EOLhyphen"/>ſure you, what ever the Pontificians doate or faigne, or our Vulgars dreame of the Ghoſts or Spirits of this man, or that man walking af<g ref="char:EOLhyphen"/>ter their deaths in this or that ſhape, is a very lye, an aſſured lye; take this from me, yea from Scripture, Fathers, Reaſon, and Experi<g ref="char:EOLhyphen"/>ence aſſuredly.</p>
+            </sp>
+            <sp>
+               <speaker>Scept.</speaker>
+               <p>But doe you not believe that many ſtrange viſions and ap<g ref="char:EOLhyphen"/>paritions have appeared unto men, and have revealed divers ſtrange things unto them and future events ſometimes viſible in bodily ſhapes and formes, are not theſe the ſoul<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of the dead?</p>
+            </sp>
+            <sp>
+               <speaker>Verid.</speaker>
+               <p>No they are not, yet I ſhould give a lye to abundant Hiſto<g ref="char:EOLhyphen"/>ries and to all Antiquities, if I ſhould deny all Viſions, for the Author of the Booke of the <hi>Machab<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s</hi> tells us of two yong men who ap<g ref="char:EOLhyphen"/>peared
+<pb n="10" facs="tcp:117803:7"/>to <hi>Heliodorus,</hi> 2 <hi>Machab.</hi> 3.25.26. of five to <hi>Judas Ma<g ref="char:EOLhyphen"/>chabeus,</hi> 2 <hi>Machab.</hi> 10.23. and <hi>Zozomens</hi> Eccleſiaſticall Hiſtorie relates a feare full ſpectar terryfying <hi>Julian</hi> the Apoſtate, as hee was conſulting with an Oracle (<hi>lib.</hi> 5. <hi>cap.</hi> 2.) and another in forme of a big woman with a horrid noiſe in the night terrifying the Antiochi<g ref="char:EOLhyphen"/>ans, <hi>lib.</hi> 7. <hi>cap.</hi> 23. and of another appearing to <hi>Apelles</hi> the Painter, whoſe face hee burned with a hot Iron, <hi>lib.</hi> 6 <hi>cap.</hi> 28. (as St. <hi>Dun<g ref="char:EOLhyphen"/>ſtan</hi> is ſayd to take the Divell by the noſe with a paire of hot pin<g ref="char:EOLhyphen"/>chers:) yea to reflex from Eccleſiaſticall on ſecular Hiſtory, a ſpectar appeared to <hi>Julius Caeſar,</hi> as hee led his Army into France, incoura<g ref="char:EOLhyphen"/>ging him by a loud pipe to paſſe over the River <hi>Rubico,</hi> another to <hi>Brutus,</hi> telling him hee would meete him at <hi>Philippos,</hi> another to <hi>Dionyſius</hi> the Syracuſan in forme of a woman, as hee ſate very ſolita<g ref="char:EOLhyphen"/>ry in the Porch of his houſe, another to <hi>Polizelus</hi> the Athenians Ge<g ref="char:EOLhyphen"/>nerall in the Battle of <hi>Marathan,</hi> where hee was victorious, though it ſtruck him blinde, another to <hi>Athenodorus</hi> the Stoick, which hee diſpoſſeſſed out of a houſe in <hi>Athens,</hi> which it haunted; juſt as the Spirit now doth the houſe of <hi>Meriday,</hi> and another in the Pariſh of <hi>Mentz,</hi> who by breaking open doores, caſting ſtones, pulling down walls (and the like reakes that our <hi>Greenwich</hi> Spirit doth) troubled and terrified many, and another to <hi>Henry</hi> the third, Emperour in <hi>Hungary</hi> neare <hi>Danubius</hi> in the ſhape of a black and big Aethiopian, another alſo to <hi>Maximilian</hi> the firſt Emperour, <hi>Anno</hi> 1503. in the forme of an Abateſſe who was dead; of all which, with many more which I purpoſely pretermit, for further ſatisfaction conſult with <hi>Came arius</hi> in his Centuries, <hi>Cent.</hi> 1. <hi>cap.</hi> 70. <hi>cap.</hi> 72. with <hi>Richthe<g ref="char:EOLhyphen"/>rus</hi> in his Occonomicall Axioms, <hi>Reg.</hi> 2. &amp; 90. <hi>Aretius</hi> in his Pro<g ref="char:EOLhyphen"/>bleams, Page 113. <hi>Pliny</hi> in his ſeventh booke of Epiſtles (to <hi>Sura</hi>) <hi>Wolfius</hi> in his memorable <hi>Lecticus, Tom.</hi> 1. <hi>Aventine</hi> in his An<g ref="char:EOLhyphen"/>nalls (<hi>lib.</hi> 5. <hi>Boiorum</hi>) <hi>Artunus</hi> in his firſt Section of the Hiſtory of <hi>Millaine,</hi> together with <hi>Plutark</hi> in his <hi>Brutns</hi> and <hi>Dion, Sueto<g ref="char:EOLhyphen"/>nius</hi> in his <hi>Caeſar,</hi> with others all which inſtances doe not onely con<g ref="char:EOLhyphen"/>fute and confound the ancient Saduces, who denyed that there were either Spirits or Angells, <hi>Acts</hi> 23.8. <hi>Math</hi> 22.23. yea conceited God himſelfe to bee corporeall (according to <hi>Lorinns, in acta cap.</hi> 23.8. <hi>fol.</hi> 869. from <hi>Chryſoſtome</hi> and <hi>Oecumenius</hi>) and not a ſpirit, deny<g ref="char:EOLhyphen"/>ing alſo the Holy Ghoſt (according to <hi>Hierom</hi> in <hi>Math.</hi> 22.) to bee a ſpirit, or to bee any perſon in the Diety, nor doe they onely muz<g ref="char:EOLhyphen"/>zle
+<pb n="11" facs="tcp:117803:7"/>the mouth of Atheiſticall Politicians, who with that <hi>Triſmegiſtus,</hi> in Saint <hi>Auguſtines</hi> City of God (<hi>lib.</hi> 3. <hi>cap.</hi> 23.) hold that there be no reall or ſubſtantiall Divells, but onely the <hi>Furies</hi> and <hi>Erinnis</hi> of wicked conſciences; but alſo ſome neotorick and moderne Fanta<g ref="char:EOLhyphen"/>ſticks and Scepticks, who conceit all to bee meere fantaſmes and de<g ref="char:EOLhyphen"/>luſions in this kinde, and no more to bee credited then the fictitious <hi>Tritons, Gerions,</hi> and <hi>Chimeras</hi> of the Poets, yea of no more cre<g ref="char:EOLhyphen"/>dence then the old Wives Tales of King <hi>Oberon,</hi> and Queene of the <hi>Fairies.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Scept.</speaker>
+               <p>To deny all Apparitions of ſpirits which the Diſciples themſelves feared, when they ſaw Chriſt walking on the waters, (<hi>Math.</hi> 14.26. <hi>Mark.</hi> 6.46.) were to deny plaine Scriptures, for they thought hee had beene a ſpirit; for I believe the Relation of <hi>Suetonius</hi> in the life of <hi>Nero,</hi> that after that <hi>Truculent</hi> Tyrant, had butchered ſo many noble Senators, made Bonefires of ſo many Chriſtian Martyrs, put to death his Maſter <hi>Seneca,</hi> when hee was 114. yeares of age, crucified <hi>Peter</hi> and <hi>Paul,</hi> and unripped the bowells of his Mother <hi>Octavia,</hi> with other ſuch barbarous cruelties, that hee was not onely racked and tortured with his owne guilty conſcience, and terrified with agonizing feares in his dreames, as were <hi>Caligula</hi> his Succeſſor, <hi>Herod</hi> after his aſſaſſinations of the Bethlem Infants, and Jewiſh <hi>Synedrim, Alexander</hi> after tue murther of <hi>Clitus Phi<g ref="char:EOLhyphen"/>lip</hi> after the butchering of his innocent ſonne <hi>Demetrins</hi> (and our bloody Boare <hi>Richard</hi> the third, after his murthering of his Brother and N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>phewes in the Tower by <hi>Tirell</hi> whoſe pannick feares and terrours in the guilt of blood, are more largely related by <hi>Patritius,</hi> in his bookes of a Kingdome, <hi>lib.</hi> 5. <hi>tit.</hi> 8. <hi>pag</hi> 313. and by <hi>Strigel<g ref="char:EOLhyphen"/>lius</hi> in his Ethicks, <hi>lib.</hi> 1. <hi>pag.</hi> 6.7.8. and in his Comments on 2 <hi>Sam.</hi> 3. <hi>pag.</hi> 9. &amp; <hi>pag.</hi> 15<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. but I believe alſo the Relation of the ſame Authours, that hee was ſo whipped, and ſcourged, and ſcorch<g ref="char:EOLhyphen"/>ed in his fleſh, as with hot brands, with a ſpirit in the ſhape of his Mother, that as <hi>Balthazar</hi> conſulted with his Magitians in the like pannick feares, <hi>Dan.</hi> 5. hee uſed all the helps hee could by Magick to appeaſe as hee thought her angry Ghoſt; neither have I any reaſon to contradict the received Relation of that terrible Viſion of an ug<g ref="char:EOLhyphen"/>ly man in bulke like a Gyant, appearing in the night to <hi>Piſiſtratus</hi> the Tyrant, thundering to him what hee found true, that <hi>nemo Impro<g ref="char:EOLhyphen"/>bus, non luit poenam,</hi> no wicked man muſt eſcape unpuniſhed; yet
+<pb n="12" facs="tcp:117803:8"/>for all this I perſwade my ſelfe, many conceit they ſee or heare ſpirits, when there is no ſuch matter.</p>
+            </sp>
+            <sp>
+               <speaker>Verid.</speaker>
+               <p>That is certaine, for in the guilt of conſcience, <hi>Theoderick</hi> a cruel King of the Goth<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> thought hee ſaw the bloody head of <hi>Sy<g ref="char:EOLhyphen"/>machus</hi> which hee had out off, to gape with open mouth upon him, when onely the head of a great Fiſh was ſet on his table, by which Guilt of Conſcience ſome have ſtrangely diſcovered their owne murthers, as many notorious Villaines have beene diſcovered by o<g ref="char:EOLhyphen"/>thers, of which many inſtances may bee ſeene in <hi>Gualters</hi> Homilies upon <hi>Luke, cap.</hi> 12. <hi>pag.</hi> 324. as alſo <hi>Bucholcerus</hi> his Chronologies, <hi>pag.</hi> 59. chiefely in <hi>Melancton in locis Manlii, pag.</hi> 290. 308. Some<g ref="char:EOLhyphen"/>times withall, the ſenſes are mainely deluded, as the Moabites thought the waters were dyed with the blood of the Iſraelites, when it was onely the Sunne which ſhined upon them to a wateriſh redneſſe, 2 <hi>King.</hi> 3.22.23. But chiefely melancholy men, Bedlam Birds, and frantick perſons, by the tumultuations of malignant ſpirits, diſtem<g ref="char:EOLhyphen"/>per of their braines and faſcinations of Sathan fiſhing in a troubled water (as his Proſelites ſince in theſe ſtreames in Church and State which themſelves made) doe not onely conceit themſelves to bee oft ſtrangely metamorphized Creatures into Birds and Beaſts (which was <hi>Nabuchadnezzar's</hi> Caſe, <hi>Dan</hi> 3.) yea into Urinalls, Glaſſes, and the like (of which abundant inſtances are given by <hi>Gallen, A<g ref="char:EOLhyphen"/>vicen,</hi> our Doctour <hi>Bright</hi> and <hi>Burton</hi> in his love Melancholy) but ſometimes they thinke they ſee Spirits and Spectars, yea that they themſelves are Divells, as <hi>Beſſus,</hi> and thoſe who murthered <hi>Ibicus,</hi> thought chatering Swallowes to bee their Accuſers, as <hi>Pluta<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k</hi> hath it, <hi>de ſera niminis vindicta;</hi> beſides thoſe who have beene long ſick, and bedrid, or diſtempered in their braines with ſwimmings and vertigoes (chiefely our new Seekers and braine ſick Enthuſiaſts) eſ<g ref="char:EOLhyphen"/>pecially (according to <hi>P. Egineta lib.</hi> 3. <hi>cap.</hi> 16) thoſe who are oppreſſed with the Ephialtes, or Night Mare, or riding of the Witch, as vulgar people call it, are moſt deluded with ſeeming Spectars and Apparitions, of all which reade for further ſatisfaction <hi>Aretius</hi> his Probleames, <hi>loco</hi> 113, <hi>circa finem.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Scept.</speaker>
+               <p>But ſince not only the vulgars as ſtrongly conceit that theſe ſpectars, and viſions which have been ſo oft diſcerned in the viſible ſhapes of this or that man or woman deceaſed, are the very perſons or ghoſts of thoſe whom they ſo lively repreſent: but they are ſo
+<pb n="13" facs="tcp:117803:8"/>held by the tenents, and opinions of all the learned Jeſuits, Prieſts, and Schoolemen, yea by the determinations of their Councels of Trent, of Conſtance, and elſe where, as reſolutely as other Counſels at Rome,
+<note n="(a)" place="margin">
+                     <hi>cap.</hi> 3. <hi>&amp;</hi> 7.</note> Carthage,
+<note n="(b)" place="margin">
+                     <hi>cap.</hi> 4. <hi>&amp;</hi> 5.</note> Laodicea,
+<note n="(c)" place="margin">
+                     <hi>cap.</hi> 24 <hi>&amp;</hi> 26.</note> Antioch,
+<note n="(d)" place="margin">
+                     <hi>cap.</hi> 10.</note> with their Clemens,
+<note n="(e)" place="margin">
+                     <hi>epiſt</hi> 5. <hi>ad Ia<g ref="char:EOLhyphen"/>cobum<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi>
+                  </note>, Anacletus,
+<note n="(f)" place="margin">
+                     <hi>epiſt.</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> and Caius,
+<note n="(g)" place="margin">
+                     <hi>epiſ. ad felice</hi>
+                  </note> determine, and ordaine Exorciſts to adjure them, to know their errands, and to con<g ref="char:EOLhyphen"/>jure them downe. I pray you, according to your various readings, ſatisfie me from Scripture grounds, and conſent of antiquity what they are? and from whence they proceed in the affirmative? and why they are not the ſpirits or ghoſts of the dead, according to the vulgar errour, if it be an errour.</p>
+            </sp>
+            <sp>
+               <speaker>Verid.</speaker>
+               <p>Firſt to remove the miſts and clouds which have ſo long dazled and darkned the blinde and ſuperſtitious Plebeians, that theſe walking, or talking ſpectars in humane ſhapes, are ſuch men and wo<g ref="char:EOLhyphen"/>men really as have been dead and buried; this is not only a ſixion un<g ref="char:EOLhyphen"/>probable, but impoſſible, for theſe Reaſons. Firſt, to hold they are the ſoules of the dead is falſe: for the ſoules of the Saints are in the hands of God, to whom they are commended, <hi>Pſal.</hi> 31.5. Now who ſhall take them out of Gods hands, this were, as the Proverb is, more then to take or pull away <hi>Hercules</hi> his Club, <hi>loves</hi> Scepter, or <hi>Neptunes</hi> Trident, which the Pagans held impoſſible. Secondly, they are departed in peace: as <hi>Simeon</hi> Propheſied, <hi>Luke</hi> 2.29. <hi>Syracid.</hi> 3. <hi>v.</hi> 3.4. now who can diſturbe this Peace, to bring them from Heaven to earth again? Thirdly, they are bound up in the bundle of life 2 <hi>Sam.</hi> 25.29. and who ſhall looſe and unbundle them? Fourthly, they are in Paradice with the ſoule of Chriſts penitent fel<g ref="char:EOLhyphen"/>low ſufferer, <hi>Luk.</hi> 23.43. and of <hi>Lazarus. Luk.</hi> 16.22. where being in <hi>refr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gerio,</hi> in fruition of joy, though not in fulneſſe till the Reſur<g ref="char:EOLhyphen"/>rection, according to <hi>Eſdras lib.</hi> 2. <hi>cap</hi> 7. <hi>v.</hi> 51, 52, 53, and <hi>Muſ<g ref="char:EOLhyphen"/>culus</hi> on <hi>Math. cap.</hi> 9 <hi>&amp; cap.</hi> 27. <hi>fol.</hi> 641. How can this joy be interupted, by their activities here on earth againe, in ſuch labours from which they have for ever reſted, <hi>Revel.</hi> 14.13. Now as theſe ſpectars are not the ſoules of Saints, much leſſe of the wicked: for the day of their viſitation being neglected, in which they ſhould have wrought out their ſalvation: <hi>Luke</hi> 19, 42.44. their ſoules are in<g ref="char:EOLhyphen"/>cloſed
+<pb n="14" facs="tcp:117803:9"/>cloſed in Hell, out of which there is no jayle delivery, <hi>Pſal.</hi> 55.16. as the cruel rich Churle experimented, <hi>Luke</hi> 16.22. their death feeds on them, <hi>Pſal.</hi> 49.14. yea the worme ever gnawes them, <hi>Marke</hi> 9.49. to which Poets alluded by the Eagle and Vulture ever gnawing on the Livers of <hi>Titius</hi> and <hi>Prometheus,</hi> in their <hi>Avernus</hi> or <hi>Tarta<g ref="char:EOLhyphen"/>rus,</hi> as the Tree falls ſo it lyes, whether to the North or South, <hi>Eccleſ.</hi> 11.3. and as they go downe to Hell, <hi>Pſal.</hi> 9.17. with <hi>Co<g ref="char:EOLhyphen"/>rah, Dathan,</hi> and <hi>Abiram, Numb.</hi> 16.31. ſo <hi>ex inferis nulla redemp<g ref="char:EOLhyphen"/>tio,</hi> there is no redemption out of Hell, its <hi>reductio per impoſſibile,</hi> they ſhall never ſee light more, <hi>Pſal.</hi> 49.19. Thus if the ſoules of the godly would not return to the Earth if they could; nor the ſoules of the wicked could if they would, how then after the ſeperations from their bodies can they walke heere any more?</p>
+            </sp>
+            <sp>
+               <speaker>Scept.</speaker>
+               <p>Then it is their bodies which walke.</p>
+            </sp>
+            <sp>
+               <speaker>Verid.</speaker>
+               <p>Bodies to walke without ſoules, this were but like a Pup<g ref="char:EOLhyphen"/>pet Plays motion, or as though Milſtones &amp; Mountains ſhould walk, or Trees in <hi>Jothams</hi> Parable, <hi>Judges</hi> 9. or any other things inanimate; but to take you from this conceit, the bodies of the Saints are a ſleepe in the Lord, as its ſayd of <hi>David,</hi> 1 <hi>Kings</hi> 2.10. and of <hi>Solomon,</hi> 1 <hi>Kings</hi> 11.43. as alſo elſe where of <hi>Aſa, Ezekiah, Jehoſophat,</hi> that they ſleepe with their Fathers, they go into their Graves as into their beds, <hi>Eſay.</hi> 57.2. they enter into the ſleeping chambers of death, and the doores are ſhut upon them, <hi>Eſay.</hi> 26.20. and who ſhall a<g ref="char:EOLhyphen"/>waken them out of this ſleepe till the laſt Trumpe, 1 <hi>Theſſ.</hi> 4.16. at what time, <hi>v.</hi> 17. they ſhall bee caught up in the cloudes to meete the Lord in the Ayre, and to bee ever with him (not on Earth for a thouſand yeares as our new Seekers and arch Hereticks dreame) but in the Heavens (which are Gods Throne) where a place is prepared for them in Gods Houſe, where are many Manſions, <hi>John</hi> 14.2. not in Earth, which is his footſtoole, much leſle ſhall the bodies of the wicked kept in the ſhackles of the Grave, as Priſoners in Newgate for Tyburne, till the Reſurrection for Hell returne, till that time pre<g ref="char:EOLhyphen"/>fixed of God any more to the Earth, or to their forſaken houſes, <hi>Job</hi> 7.10. they ſhall rot and periſh in the Grave, the eye which ſaw them ſhall ſee them no more. <hi>Job</hi> 20.7.8. there ſhall they bee tyed as guil<g ref="char:EOLhyphen"/>ty fellons for execution with the chaines and cords of their ſinnes, <hi>Prov.</hi> 5.22. their memories ſhall rot, <hi>cap.</hi> 20.7. their hopes and ex<g ref="char:EOLhyphen"/>pectations ſhall periſh, <hi>cap.</hi> 11.8.</p>
+               <pb n="15" facs="tcp:117803:9"/>
+               <p>Secondly, if the dead walke on Earth, its either by Gods com<g ref="char:EOLhyphen"/>mand, or by their owne private motion, not by any mandate from God. of which the Scripture is altogether ſilent, <hi>ne gri quidem,</hi> and according to <hi>Tertullian, quod non habet, ignorat,</hi> what it hath not, it is ignorant of, <hi>quod non jubet, prohibet,</hi> what it commands not, it prohibits, what it affirmes not either directly, or by conſequent, it denies; now it is ſo far from allowing or teaching this walking of men or their ſpirits, that it directly contradicts it, <hi>Luke</hi> 16.26. as a thing impoſſible: hence then as its a ſhame for a Lawyer to plead contrary to all Lawes or booked Caſes; is it not more ſhamefull for a Chriſtian, much more a Divine, to affirme any thing thats not re<g ref="char:EOLhyphen"/>vealed in Scripture, <hi>Heb.</hi> 1.1.13. <hi>Eſay.</hi> 8.10. which being not of faith is finne, <hi>Rom.</hi> 14.23.</p>
+               <p>And if God neither command nor commend this walking of deud men, much leſſe can they walke or talke of themſelves, with out God, no more then dead Lyons can roare, dead Aſſes brey, or dead Images ſpeake: Without the impoſtures of Divells and Fryars, ſince even Sathan himſelfe, the cunning Artificer and Contriver of theſe delu<g ref="char:EOLhyphen"/>ſions, is chained as a Maſtiffe, and grated as a Lyon, in all his powers ſubordinate unto God, as appeares in his reference to <hi>Job, cap.</hi> 1. and the Gaderens ſwine, <hi>Mark</hi> 5.</p>
+               <p>Thirdly, Since <hi>finis &amp; bonum convertuntur,</hi> nothing comes from God, whoſe end is not good as well as meanes, their walking were frivolous, and to no purpoſe, ſince wee are abſolutely prohibited from any commerce with ſpirits, <hi>Deut.</hi> 18.10.11. and from conſulting with them, as leaving the living for the dead, <hi>Eſay.</hi> 8.18.19.</p>
+            </sp>
+            <sp>
+               <speaker>Scept.</speaker>
+               <p>But did not the Witch of Endor raiſe up <hi>Samuel,</hi> really with whom <hi>Saul</hi> conſulted, and ſo conſequently, why may not o<g ref="char:EOLhyphen"/>thers appeare in their viſible ſhapes as well as <hi>Samuel</hi> after their deaths, 2 <hi>Sam.</hi> 28.</p>
+            </sp>
+            <sp>
+               <speaker>Verid.</speaker>
+               <p>I know all the Rabble of Schoolemen and Jeſuites affirme <hi>Samuels</hi> reall reſuſcitation, bewitching the vulgars to believe that the dead appeare out of Heaven, Hell, and Purgatory, to bring the living newes of their eſtate, which golden dreame fills their coffers with gold, and brings golden Gudgeons to their ſpread net; yea catcheth many ſilver feathered Woodcocks; but they catch at ſhadowes and Sathanicall ſhewes for <hi>Samuels</hi> ſubſtance: For firſt, if God would neither anſwer <hi>Saul</hi> by Dreames, Viſions, Prophets, 1 <hi>Sam</hi> 28.14.15.16.
+<pb n="16" facs="tcp:117803:10"/>is it probable that hee would anſwer him by <hi>Samuel,</hi> at the mediation of a Pythoniſt, a Vaſſaile and Slave to the Devill, <hi>v.</hi> 7.</p>
+               <p>Secondly, would God permit <hi>Samuels</hi> practiſe in anſwering <hi>Saul</hi> to contradict his owne precept, prohibition of inquiring ought of the dead, <hi>Levit.</hi> 20.27. <hi>Deut.</hi> 18.11.</p>
+               <p>Thirdly, the reall <hi>Samuel</hi> would not make a lye, telling <hi>Saul</hi> that the next morning hee ſhould bee with him, <hi>v.</hi> 19. that is in a bleſſed and beatificall condition, when indeede being <hi>felo de ſe</hi> in a deſperate condition his owne ſelfe murtherer, 1 <hi>Sam.</hi> 31.4. with other mur<g ref="char:EOLhyphen"/>therers hee had no title to eternall life, 1 <hi>John</hi> 3.12.13.</p>
+               <p>Fourthly, I ſay with <hi>Tertullian, abſit ut anima cujuslibet juſti,</hi> God forbid that the ſoules of any Saints, much leſſe of the holy Pro<g ref="char:EOLhyphen"/>phets ſhould bee in the power of Sathan to call them from Heaven at his pleaſure.</p>
+               <p>Fiftly, I ſay with <hi>Peter Marter;</hi> if <hi>Samuell</hi> was raiſed, it was either by the will of God, and <hi>Samuels</hi> voluntary conſenting, or compulſively by art magick: the firſt it was not, becauſe God pro<g ref="char:EOLhyphen"/>hibites ſuch conſultings with the dead: therefore to affirme the ſe<g ref="char:EOLhyphen"/>cond were impious and blaſphemous.</p>
+            </sp>
+            <sp>
+               <speaker>Scept.</speaker>
+               <p>But if the true <hi>Samuel</hi> was not raiſed by the Witch: what was it then which appeared to <hi>Saul?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Verid.</speaker>
+               <p>It was a perſonated Hiſtrionicall <hi>Samuel,</hi> a deluding Ma<g ref="char:EOLhyphen"/>lignant ſpirit in the ſhape of <hi>Samuel,</hi> juſt as <hi>Cornelius Agrippa,</hi> that great Conjurer brought the ſhapes of <hi>Hellena, Achilles, Hector,</hi> and <hi>Alexander</hi> upon a Stage before <hi>Charles</hi> the fift; and this is the opinion of <hi>Cyrill, lib.</hi> 12. in <hi>Iohan. cap.</hi> 36. of <hi>Theophilact.</hi> in <hi>cap.</hi> 8. <hi>Math.</hi> as alſo of <hi>Athanaſius,</hi> and <hi>Chryſostome</hi> alledged by <hi>Illiricus Cent.</hi> 2. and by <hi>Diatericus dom.</hi> 1. <hi>Trinit. part</hi> 2. <hi>obſerv.</hi> 1. yea of <hi>Augustine</hi> in his queſtions of two Teſtaments 27. to which even Pontifician Canoniſts Conſent in the ſecond Booke of <hi>Deeretalls Cauſa,</hi> 26. q. 5. <hi>cap</hi> 14.</p>
+            </sp>
+            <sp>
+               <speaker>Scept.</speaker>
+               <p>But if it were not the reall <hi>Samuel</hi> which appeared: why is he called <hi>Samuel?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Verid.</speaker>
+               <p>
+                  <hi>Augustine</hi> in his Epiſtle to <hi>Symplician,</hi> tels us, juſt as the curious Picture of ſuch and ſuch a Man. Woman, Bird, Beaſt, or Fiſh, drawn by ſome curious <hi>Zeuxes,</hi> or <hi>Apelles,</hi> hath their names, as we uſe to ſay, this is <hi>Hector,</hi> this <hi>Caeſar,</hi> this <hi>Cicero,</hi> this <hi>Salust,</hi> this <hi>Augustine, Hierom,</hi> this the flood Simois, when they are but ſo lim<g ref="char:EOLhyphen"/>med,
+<pb n="17" facs="tcp:117803:10"/>or pencild: as alſo this is Rome, this Millaine, this Venice; when we ſee them in the Mapps of <hi>Ortelius</hi> or <hi>Mercator.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>But they tel us theſe ſpectars that they are the ſouls of ſuch and ſuch Men.</p>
+            </sp>
+            <sp>
+               <speaker>Verid.</speaker>
+               <p>So a counterfeit voice told fond <hi>Celestine</hi> that he ſhould reſigne his Popedome to <hi>Boniface:</hi> ſo it goes by Tradition, that a voice told the late Mr. <hi>Craſhaw</hi> of the Temple, or old <hi>Muncy Dun<g ref="char:EOLhyphen"/>cy</hi> of St. <hi>Johns</hi> in Cambridge, that they ſhould goe to Geneva to preach the Goſpell. <hi>Chryſoſtome</hi> on Mathew Hom. 29. tels us what credit we are to give to the Devill, and to his tellings in ſuch caſes, who is (not as the countrey Miniſter read it a Lawyer) but a lyar from the beginning, <hi>Iohn</hi> 8.44. and as the Father of lyes teacheth his aequivocating Jeſuits, Monks, and Fryers, and all his artifizing Guſmans, and Proſelites, their lying tongues better then their Latine tongues.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>From whence we have the phraſe, <hi>hic frater, ergo mendax,</hi> he is a Fryer, therefore a lyar, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a Jeſuite, therefore a Jebuſite. But to ſatisfie me further: that which appeared unto <hi>Saul</hi> was ſo like Sa<g ref="char:EOLhyphen"/>muell, that what could it be elſe, but <hi>Samuel?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Verid.</speaker>
+               <p>And I pray you have you not read how like a Cooke was to the Father of <hi>Pompey, Lentulus</hi> to <hi>Metellus, Ninus</hi> to his Mo<g ref="char:EOLhyphen"/>ther <hi>Somiramis,</hi> the two Twins of <hi>Proconeſia,</hi> and of <hi>Hipocrates</hi> one to another, both in <hi>Pliuny,
+<note n="(a)" place="margin">
+                        <hi>lib.</hi> 7. <hi>cap.</hi> 10.12.</note> Solinus,
+<note n="(b)" place="margin">
+                        <hi>cap.</hi> 4. <hi>Poli.</hi>
+                     </note> Diodorus,
+<note n="(c)" place="margin">
+                        <hi>lib.</hi> 3. <hi>de Fab. autiq.</hi>
+                     </note> Justin,</hi>
+                  <note n="(d)" place="margin">
+                     <hi>lib.</hi> 1.</note> and <hi>Valerius,</hi>
+                  <note n="(e)" place="margin">
+                     <hi>lib.</hi> 9. <hi>c. is.</hi>
+                  </note> as alſo that <hi>Cn. Pompeius</hi> was ſo like great <hi>Alex<g ref="char:EOLhyphen"/>der,</hi>
+                  <note n="(f)" place="margin">
+                     <hi>Plutarke in vita.</hi>
+                  </note> a yong man ſo like <hi>Augustus,</hi> that the jeſt was the young mans Father had oft beene in Rome, and in <hi>Caſars</hi> Court; and that yong <hi>Sporus</hi> was ſo like <hi>Sabina, Neroes</hi> Empreſſe, that <hi>Nero</hi> made him be cut, and uſed him as a woman
+<note n="(g)" place="margin">
+                     <hi>Zephilinus in Nerone.</hi>
+                  </note>. And in our later times, a yong man in the Court of <hi>Francis Sfortia</hi> the Duke of Millaine, in his light armour, ſharp voice and jeſture, ſo like the Duke, that by the common voice of the Court he was called a Prince; the like ſimilitude was betwixt <hi>Sigiſmund</hi> and his jeſting Foole <hi>Marchiſine,</hi> betwixt <hi>Oporinus</hi> the Printer, and <hi>Albert</hi> the Marqueſſe of Brandburge; and many that you may read of more at large, mentioned by
+<pb n="18" facs="tcp:117803:11"/>
+                  <hi>Fulgoſus,
+<note n="(h)" place="margin">
+                        <hi>lib. 9. cap.</hi> 15.</note> Valerius,
+<note n="(i)" place="margin">
+                        <hi>lib. 9. cap.</hi> 13. &amp; 15.</note> Sabellicus,
+<note n="(k)" place="margin">
+                        <hi>lib.</hi> 1. <hi>Aeneid</hi>
+                     </note> Stobaeus,
+<note n="(l)" place="margin">
+                        <hi>ſerm.</hi> 42.</note> Boccace</hi> in his Booke of excellent Women,
+<note n="(m)" place="margin">
+                     <hi>cap.</hi> 2.</note> 
+                  <hi>Polyanus</hi> in his Stratagems,
+<note n="(n)" place="margin">
+                     <hi>lib.</hi> 8.</note> and <hi>Polibius</hi> in his Hiſtories.
+<note n="(o)" place="margin">
+                     <hi>lib.</hi> 4. <hi>fol.</hi> 123.</note> All as like one another, or more like, then Sathans aſſumed ſhape to <hi>Samuel;</hi> yea as one egge, one ſtar, and one Pile of graſſe to another: I my ſelf am able to ſpeake to this purpoſe that ſome 30 yeares ſince, I have been often in the ſtreets tooke for Mr. <hi>Craſhaw,</hi> when he was Preacher at the Temple, and I at Saint <hi>Brides</hi> in Fleetſtreet.</p>
+            </sp>
+            <sp>
+               <speaker>Scept.</speaker>
+               <p>But Sir, theſe you recite were living, and had the lively freſh colours and lineaments of nature: but <hi>Samuell</hi> was dead.</p>
+            </sp>
+            <sp>
+               <speaker>Verid.</speaker>
+               <p>Therefore it was more eaſie for Sathan to repreſent his ſhape, though not abſolutely in a perfect ſymetry, yet if in any pro<g ref="char:EOLhyphen"/>portion <hi>Snul</hi> might thinke, wherein <hi>Samuel</hi> was defective of his living ſhape, it was by the ſoyling of the Grave, in which he had ſo long layd.</p>
+            </sp>
+            <sp>
+               <speaker>Scept.</speaker>
+               <p>Yet it ſeems ſtrange to me, that ſo wiſe and ſagatious a Pollitician as <hi>Saul</hi> was, ſhould neither by ſhape, jeſture, nor voice, diſcern this counterfeit <hi>Samuell.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Verid.</speaker>
+               <p>To open your eyes with a little Hiſtorical Collirium: was it not as ſtrange, that one was ſo like <hi>Alexander</hi> the ſon of <hi>Herod</hi> whom his Father ſlew; that he was taken and ſaluted as King in <hi>Ioſephus</hi> his antiquities?
+<note n="(p)" place="margin">
+                     <hi>lib.</hi> 27.</note> another in <hi>Leunclavius</hi> his Annalls of the Turks,
+<note n="(q)" place="margin">
+                     <hi>pag.</hi> 34.</note> and in his Pandects,
+<note n="(r)" place="margin">
+                     <hi>page</hi> 291.</note> ſo like the great Sultan de<g ref="char:EOLhyphen"/>ceaſed in <hi>Romania,</hi> that he drew to him a great Army, ſiding with him for the Turkiſh Empire: another in <hi>Melanctons</hi> Chronicles
+<note n="(s)" place="margin">
+                     <hi>lib.</hi> 4 <hi>pag.</hi> 358.</note> ſo like <hi>Conſtantine</hi> deceaſed, that he put <hi>Michael</hi> the Grecian Emperour to much trouble and loſſe in divers ſet battles: another in the Annalls of <hi>Flaunders,</hi> and in <hi>Munſters</hi> Coſmography
+<note n="(t)" place="margin">
+                     <hi>pag.</hi> 171 <hi>anno,</hi> 1225.</note> called <hi>Bertrand</hi> a French man, ſo like <hi>Baldwine</hi> an Earle of Flaun<g ref="char:EOLhyphen"/>ders, which was a Priſoner in Conſtanrinople, that all Flaunders for a time flockt to him, as their Earle and Lord, broke out of Priſon: another both in <hi>Cuſpinian</hi>
+                  <note n="(v)" place="margin">
+                     <hi>in Tiberio, pag.</hi> 13.</note> and <hi>Tacitus</hi>
+                  <note n="(w)" place="margin">
+                     <hi>lib.</hi> 2. <hi>pag.</hi> 102.</note> a baſe bondſlave to
+<pb n="19" facs="tcp:117803:11"/>
+                  <hi>Agrippa</hi> that was flaine, ſo reſembling him in ſhape and phiſiognomy, that he imbarked all the Roman Empire in Civil Wars; pretermitting all the bloody broyls ſtirred up in Theſſaly and Ma<g ref="char:EOLhyphen"/>cedonia, by a counterfeit <hi>Pſendophilip,</hi> in <hi>Florus</hi> his Epitomies of <hi>Livies D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eads,</hi>
+                  <note n="(x)" place="margin">
+                     <hi>lib</hi> 49 50. 52.</note> the diſtra<g ref="char:EOLhyphen"/>ctions wrought in Rome by one reſembling <hi>Nero,</hi> twenty years after his death,
+<note n="(y)" place="margin">
+                     <hi>apud Tacitum lib.</hi> 18. <hi>pag.</hi> 587. <hi>&amp; Cuſpinian in vita Neronis, pag.</hi> 26.</note> in Perſia by one <hi>Smerdis</hi> reſembling the deceaſed <hi>Smerdis,</hi> the ſonne of <hi>Cyrus,</hi> and brother of <hi>Cambiſes,</hi> in <hi>Justin,</hi>
+                  <note n="(z)" place="margin">
+                     <hi>lib.</hi> 1. <hi>pag.</hi> 23.</note> and <hi>Herodotus,</hi>
+                  <note n="(a)" place="margin">
+                     <hi>in Thalia, lib.</hi> 3. <hi>pag.</hi> 90.</note> and in the Ci<g ref="char:EOLhyphen"/>ties of <hi>Marchia</hi> by a <hi>Pſoude-Wolmar</hi> a baſe Milner by his reſemblance of the old <hi>Woldemar</hi> deceaſed, fully regiſtred by <hi>Peucer</hi> in his Chro<g ref="char:EOLhyphen"/>nicles:
+<note n="(b)" place="margin">
+                     <hi>lib.</hi> 5. <hi>pag.</hi> 60.</note> and in a private Family by one <hi>Mar<g ref="char:EOLhyphen"/>tin,</hi> a French man, long admitted for a Husband though a counterfeit Knave, mentioned by <hi>Cog<g ref="char:EOLhyphen"/>natus</hi> in his Narrations,
+<note n="(c)" place="margin">
+                     <hi>anno,</hi> 1559, <hi>lib.</hi> 8.</note> and <hi>Neander</hi> in the end of his Hiſtory,
+<note n="(d)" place="margin">
+                     <hi>pag.</hi> 23.</note> with others graphically ſet out in their true colours by <hi>Tholoſanus</hi> in his Common Wealth,
+<note n="(e)" place="margin">
+                     <hi>lib. 7. cap.</hi> 18. <hi>pag.</hi> 498. 499.</note> all couſening and delu<g ref="char:EOLhyphen"/>ding the World with their counterfeit ſhapes and reſemblances, as much as the <hi>Ender</hi> Witch deceived <hi>Saul</hi> with her imaginary <hi>Samuel,</hi> or as <hi>Janues</hi> and <hi>Jambres</hi> deluded <hi>Pharoah</hi> with their counterfeit ſerpents, or as <hi>Apollonius Thianeus,</hi> and a Witch called <hi>Lamiah,</hi>
+                  <note n="(f)" place="margin">
+                     <hi>apud Philoſtr. lib.</hi> 4. <hi>de vita Apolliuarii.</hi>
+                  </note> couſened <hi>Me<g ref="char:EOLhyphen"/>nippus</hi> a yong man with a counterfeit banquet, as <hi>Zeuxis</hi> deceived Birds in <hi>Pliny,</hi> with pain<g ref="char:EOLhyphen"/>ted
+<note n="(g)" place="margin">
+                     <hi>lib.</hi> 53. <hi>cap.</hi> 11.</note> grapes.</p>
+            </sp>
+            <sp>
+               <speaker>Scept.</speaker>
+               <p>Now that you reflect on <hi>Jannes</hi> his Serpents, were they not reall Serpents?</p>
+            </sp>
+            <sp>
+               <speaker>Verid.</speaker>
+               <p>Though I know that both <hi>Theodoret</hi> in his Queſtions on <hi>Exodus,
+<note n="(h)" place="margin">
+                        <hi>queſt.</hi> 18.</note> Philo</hi> in his booke of <hi>Moſes,</hi> and <hi>Augustine</hi> in his third booke of the Trinity, as alſo <hi>Aquinas, Toſtatus, Burgenſis,</hi> and <hi>Lyra,</hi> hold that their Rods were truely turned into Serpents like the Rod of <hi>Aaron;</hi> yet I hold them no more reall ſerpents, then what we have diſcuſſed to bee reall <hi>Samuel,</hi> but onely with <hi>Ioſephus,</hi>
+                  <pb n="20" facs="tcp:117803:12"/>
+                  <note n="(i)" place="margin">
+                     <hi>lib.</hi> 2. <hi>Anti<g ref="char:EOLhyphen"/>quit. cap.</hi> 15.</note> that they did creepe <hi>in ſpeciem verorum</hi> in ſhew and likeneſſe of true ſerpents, and with <hi>Tortullian,</hi>
+                  <note n="(k)" place="margin">
+                     <hi>lib. de anima.</hi>
+                  </note> that <hi>Moſis veritas magorum devoravit mendacium, Moſes</hi> his truth devoured the lyes of the Magitians, and with <hi>Hierom</hi>
+                  <note n="(l)" place="margin">
+                     <hi>lib.</hi> 2. <hi>adverſus Jovinian.</hi>
+                  </note> that <hi>Imitabantur ſigna quae faciebat Moſes;</hi> and I hold their acts with <hi>Ambr.
+<note n="(m)" place="margin">
+                        <hi>in</hi> 2. <hi>Epiſto<g ref="char:EOLhyphen"/>la. ad Timoth. cap.</hi> 3.</note> commentitiam emulationem,</hi> were in a feigned emulatió, no cre<g ref="char:EOLhyphen"/>atió of real ſerpents, which according to <hi>Ruper<g ref="char:EOLhyphen"/>tus, ſolius divinae poteſtatie eſt;</hi> yea according to al Orthodox Divinity is the ſole and proper work of Gods omnipotency, not communicable to An<g ref="char:EOLhyphen"/>gells men, or Divells, no more then to create any thing <hi>ex novo, vel ex nibile,</hi> of nothing, in no<g ref="char:EOLhyphen"/>thing, or to raiſe up a <hi>Samuel</hi> or any other dead man, without ſuch immediate power as the divine eſſence gave unto <hi>Elias,
+<note n="(n)" place="margin">1 <hi>King.</hi> 17.21.22.</note> Eliſha,
+<note n="(o)" place="margin">2 <hi>King.</hi> 4.34.</note> Peter,</hi>
+                  <note n="(p)" place="margin">
+                     <hi>Act.</hi> 9.40.</note> and <hi>Paul,</hi>
+                  <note n="(q)" place="margin">
+                     <hi>Act.</hi> 20.10.</note> extraordinarily to raiſe the dead very ſeldome and ſparingly.</p>
+            </sp>
+            <sp>
+               <speaker>Scept.</speaker>
+               <p>But I pray you ſince its certaine that the dead have beene raiſed ſince the times of the Prophets and Apoſtles, as alſo that ſtrange Miracles have beene done; what ſhall wee thinke of them, whether for the matter they have beene done at all, or onely feigned by fabulous Hiſtorians, or if done I deſire to know the manner how, and by what power they were done?</p>
+            </sp>
+            <sp>
+               <speaker>Verid.</speaker>
+               <p>That we be not confuſed, firſt ſhew me what dead ſince the Apoſtles Times you have read raiſed, and by whom; then give mee ſome hints of theſe which have gone, and doe go currant for Miracles.</p>
+            </sp>
+            <sp>
+               <speaker>Scept.</speaker>
+               <p>To improve in the firſt my poore Hiſtorifyings, beſides <hi>E<g ref="char:EOLhyphen"/>noch</hi> and <hi>Elias,</hi> who I am ſure as Types of Chriſt aſcended into Hea<g ref="char:EOLhyphen"/>ven, both in their ſoules and bodies, and ſuch as are truely Hiſtorified or feined to have vaniſhed out of the eyes of men, without any viſi<g ref="char:EOLhyphen"/>ble death or buriall, as that <hi>Ariſtaeus in Horedotus lib.</hi> 4. and that <hi>Romulus</hi> the founder of Rome, who vaniſhed from the Roman Se<g ref="char:EOLhyphen"/>nate in a great ſtorme neare the Lake of <hi>Caeprea,</hi> as alſo that ſtrong Thiefe <hi>Cleomines,</hi> who was never found ſaith <hi>Sabellicus. lib.</hi> 1. <hi>cap.</hi> 8. after hee was ſhut into a ſtrong and cloſe priſon: I have read of a yong boy raiſed by St. <hi>Martin,</hi> who dyed in his abſence in the houſe of St. <hi>Hilary;</hi> as alſo by another by the ſayd <hi>Martin,</hi> who hanged
+<pb n="21" facs="tcp:117803:12"/>himſelfe, of <hi>Muſomus</hi> and <hi>Chryſanthus</hi> raiſed out of their Graves by ſome Biſhops of the Counſell of <hi>Nice</hi> to ſubſcribe to ſome Or<g ref="char:EOLhyphen"/>thodox Articles, as alſo of one <hi>Ovo</hi> a boy revived by the prayers of <hi>Vulfran,</hi> as alſo of one <hi>Evarard</hi> a Knight of Germany, who after his departure revived, and told what ſtrange things his ſpirit had ſeene in Hieruſalem, in <hi>Lumbardie,</hi> in the Tents of <hi>Saladine,</hi> and elſe where: the like being recorded by <hi>Fulgoſus. lib.</hi> 1. <hi>cap.</hi> 6. of one <hi>Stephen</hi> a noble Roman dying at Conſtantinople, with many more in the like nature, what doe you thinke of theſe?</p>
+            </sp>
+            <sp>
+               <speaker>Verid.</speaker>
+               <p>I thinke of them as of the lying Miracles recorded by unſure <hi>Surius, Metaphrastes, Abdias,</hi> and other Popiſh Fablers, to bee of ſuch Authority as the Tranſmutations in <hi>Ovid,</hi> and the Tranſmigrations of <hi>Pythagoras,</hi> ſince they have no better Authours then <hi>Gregories</hi> Dialogues, <hi>Severus, Sulpitius, Nicephorus, lib.</hi> 8. <hi>cap.</hi> 23. and ſuch Fablers as may vie it for the whetſtone, and leſſe credit I give to all theſe fabulous Relations of <hi>Volateran, lib.</hi> 16. <hi>&amp; lib.</hi> 22. <hi>Anthrop,</hi> of <hi>Pliny. lib.</hi> 7. <hi>cap.</hi> 22. of <hi>Valerius, lib.</hi> 1. <hi>cap.</hi> 8. of <hi>Fulgoſus, lib.</hi> 1. <hi>cap.</hi> 6. of <hi>Diodorus, lib.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>cap.</hi> 2. of <hi>Antiqui<g ref="char:EOLhyphen"/>ties,</hi> of <hi>Celius</hi> in his Auncient Readings, <hi>lib.</hi> 8. of <hi>Macrobius</hi> in his <hi>Scipioes</hi> Dreame, and others who have dreamed, of the Reſuſcitati<g ref="char:EOLhyphen"/>ons of <hi>Tindareus, Hercules,</hi> and <hi>Aeſop</hi> the Fabler, of <hi>Pamphilus</hi> the Schollar, of <hi>Plate</hi> after his ten dayes death, of <hi>Iſis</hi> the ſonne of <hi>Orus</hi> ſlaine by the Titans of innocent <hi>Hipolitus</hi> raiſed by <hi>Neptune,</hi> after his cruel Father <hi>Theſius</hi> had rackt him in peeces, of <hi>Gabienus</hi> one of <hi>Caeſars</hi> Captaines, after his throat was cut by <hi>Sextus Pompeius,</hi> with abundant others, ſcattered in the aforeſayd Authours, and of one in <hi>Sabellicus, lib.</hi> 10. <hi>cap.</hi> 8. <hi>Aeneid,</hi> who was raiſed by <hi>Aſclepiades</hi> at his very Grave, elſe <hi>mentiuntur Poetae,</hi> the Authours are not grave enough to bee believed, as indeede they are not, for to tell you truth, I have peruſed the Eccleſiaſticall Hiſtory of <hi>Eu<g ref="char:EOLhyphen"/>ſebius,</hi>
+                  <note n="(r)" place="margin">
+                     <hi>lib.</hi> 1. <hi>c.</hi> 13. <hi>&amp; lib.</hi> 3. <hi>cap.</hi> 1.2. <hi>&amp;</hi> 25. <hi>&amp; lib.</hi> 9. <hi>cap.</hi> 1.</note> more Authentick then either <hi>Socra<g ref="char:EOLhyphen"/>tes, Zozomen, Evagrius;</hi> or any of his fellows: as alſo ſome of the Fathers, <hi>Clemens Alexandri<g ref="char:EOLhyphen"/>nus,
+<note n="(s)" place="margin">
+                        <hi>Strom. lib.</hi> 2. <hi>&amp;</hi> 3.</note> Epiphanius,</hi>
+                  <note n="(t)" place="margin">
+                     <hi>lib.</hi> 1. <hi>Tom.</hi> 1. <hi>Hom.</hi> 20.</note> and <hi>Ireneus,</hi>
+                  <note n="(v)" place="margin">
+                     <hi>lib.</hi> 3. <hi>adverſus hereſ. cap.</hi> 3.</note> as alſo the Germaine Centuries,
+<note n="(w)" place="margin">
+                     <hi>Cent.</hi> 1. <hi>lib.</hi> 2. <hi>cap.</hi> 10.</note> and <hi>Oſiander</hi> their
+<pb n="22" facs="tcp:117803:13"/>Epitomizer,
+<note n="(x)" place="margin">
+                     <hi>lib.</hi> 2. <hi>Cant.</hi> 1. <hi>cap.</hi> 33.</note> yea even <hi>Nicephorus</hi> himſelfe,
+<note n="(y)" place="margin">
+                     <hi>lib.</hi> 2. <hi>c.</hi> 1.40. <hi>&amp; lib.</hi> 4. <hi>cap.</hi> 7.</note> and <hi>Egiſippus,</hi>
+                  <note n="(z)" place="margin">
+                     <hi>lib.</hi> 3. <hi>cap.</hi> 2.</note> who all of them occaſio<g ref="char:EOLhyphen"/>nally have-reflexed on the chiefe acts, lives, and deaths of the Apoſtles; chiefely of <hi>Peter, Paul, Thomas, Mathew, Mathias, Andrew, James</hi> the elder, <hi>Iohn, Bartholomew,</hi> and the reſt, ſome touching on the act of one, ſome of another: and I profeſſe, excepting <hi>Suidas,</hi> who relates that Saint <hi>Iohn</hi> revived his Hoſteſſe <hi>Druſiana</hi> af<g ref="char:EOLhyphen"/>ter his returne from exile (<hi>Domitian</hi> being dead) not any one of them, except theſe being recor<g ref="char:EOLhyphen"/>ded in Scripture, make mention of any one revi<g ref="char:EOLhyphen"/>ved by them from death to life; and is it likely then this vivificating power was given to Saint <hi>Martin,</hi> Saint <hi>Vul<g ref="char:EOLhyphen"/>fran?</hi> or any ſuch their imaginary Saints, much leſſe to <hi>Aſclepiades,</hi> or <hi>Apollonius,</hi> or any of the Pagans, or to a Popiſh Prieſt, or Papi<g ref="char:EOLhyphen"/>zed Saint, as ordinarily in <hi>Dalvortius,</hi> who rakes up the dung and filth of all other Legends, as their leaſt petty Miracles which they day<g ref="char:EOLhyphen"/>ly cry up.</p>
+            </sp>
+            <sp>
+               <speaker>Scept.</speaker>
+               <p>Then you give no credit to the Legend of St. <hi>Dominick,</hi> that he raiſed up three dead men within the Walls of Rome, and for<g ref="char:EOLhyphen"/>ty at a clap, that were drowned near Tholous, though recorded by <hi>Antoninus</hi> in his Chroni<g ref="char:EOLhyphen"/>cles
+<note n="(a)" place="margin">
+                     <hi>Tit.</hi> 23. <hi>cap.</hi> 1, 2, 3,</note> and the French <hi>Ribadineira,</hi> in the lives (or the lyes) of his Saints,
+<note n="(b)" place="margin">
+                     <hi>pag.</hi> 94. <hi>part</hi> 2</note> on which the French <hi>Morney</hi> reflexeth to their juſt oblo<g ref="char:EOLhyphen"/>quy in his Myſtery of iniquity.</p>
+            </sp>
+            <sp>
+               <speaker>Verid.</speaker>
+               <p>I believe it verily, as very a lye, as that the Birds ſtretcht out their necks to receive a bleſſing whe Saint <hi>Anthony</hi> preacht, and that Chriſt and the Virgin <hi>Mary</hi> ſent an An<g ref="char:EOLhyphen"/>gell to him to come to them to Saint <hi>Maries</hi> Church at Aſſize in I<g ref="char:EOLhyphen"/>taly, where they ſtayd to ſpeake with him, or that Chriſt ſo printed his five wounds in the body of Saint <hi>Francis,</hi> that hee was tipicall Chriſt, or that a ſhining Starre was on the forehead of Saint <hi>Domi<g ref="char:EOLhyphen"/>nick</hi> as ſoone as ever hee was baptized, by which hee was the light of the World as well as Chriſt, or that Saint <hi>Vincent Ferrier</hi> preaching in Spaniſh was underſtood of numerous ſtrangers, every one of them in their owne language, or that Saint <hi>Anthony</hi> of <hi>Padua</hi> his Ser<g ref="char:EOLhyphen"/>mons
+<pb n="23" facs="tcp:117803:13"/>being refuſed by Hereticks, preacht to the <hi>Fiſhes,</hi> who all peerkt up their white heads to heare him, and bowed them downe to thanke him when hee called them Brethren, or that Chriſt in the preſence of his Mother and An<g ref="char:EOLhyphen"/>gels eſpouzed <hi>Katherine</hi> of <hi>Sienna</hi> with a Ring of Gold, and foure Rich Stones in it; or that <hi>Otho</hi> being to receive the conſecrated <hi>Hoſt,</hi> his naked body, in his ſick bed opened, and it leapt into his ſide: all which I believe as I doe the Chaſtities of Nunnes and Fryers, when at the diſſolution of the Abbies there were detected ſo many Sodomites, <hi>Catamites</hi> Prieſts of <hi>Priapus,</hi> and Nuns of <hi>Venus,</hi> though all averred as well as the reall appearing of <hi>Samuel,</hi> or the raiſing and walking of the dead; though theſe naſty dunghill Legends, and many ſuch are covered over with the ſnow of a ſeeming truth by the ſame <hi>Anthonine,</hi>
+                  <note n="(d)" place="margin">
+                     <hi>Part.</hi> 3. <hi>Lugd.</hi> 1543. <hi>tit.</hi> 23. <hi>cap.</hi> 14. <hi>ſect.</hi> 4.10.19. <hi>fol.</hi> 180. <hi>to</hi> 188. <hi>&amp; tit.</hi> 24. <hi>cap.</hi> 7. <hi>&amp; pag.</hi> 384.</note> and <hi>Rabadineira</hi>
+                  <note n="(e)" place="margin">
+                     <hi>bidem part.</hi> 1. <hi>pag.</hi> 135 <hi>to pag.</hi> 443. <hi>&amp; pag.</hi> 384.563.</note> as alſo by <hi>Vincentius</hi> in his Hiſtoricall Glaſſe or Gloſſe,
+<note n="(f)" place="margin">
+                     <hi>Lib.</hi> 3. <hi>cap.</hi> 97.</note> and by <hi>Walſingam</hi>
+                  <note n="(g)" place="margin">
+                     <hi>Ypodigma Neuſtriae, Anno,</hi> 1215. <hi>pag.</hi> 55.</note> and <hi>Bonaventure</hi> in his Chronicle, and other Legendaries.</p>
+            </sp>
+            <sp>
+               <speaker>Scept.</speaker>
+               <p>As my little taper added to your ſunne, I will acquaint you with my conceptions, that ſome divulged to bee revived from death were never dead, but ſuffered ſome <hi>diliquium animae,</hi> faintings of the ſoule and ſpirits as they are called in lying long ſeemingly dead in ſome Apoplexies, Palſies, falling ſickneſſes, and ſome wo<g ref="char:EOLhyphen"/>men in the diſeaſe of the Mother, in the pains of ſuffocation and ſtran<g ref="char:EOLhyphen"/>gulation of the Wombe, and in <hi>Epilepticks,</hi> hav<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bee<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e thought dead two or three dayes, ſome for ſeventy houres, yea ſome have beene carryed out to bee buried, and ſome have beene coffened and intom<g ref="char:EOLhyphen"/>bed; when by reaſon of the intenſiveneſſe of cold, and the weake<g ref="char:EOLhyphen"/>neſſe of naturall heate, neither by pulſe nor reſpiration, or any ſymp<g ref="char:EOLhyphen"/>tomes, any life hath beene thought to bee in them: now its proba<g ref="char:EOLhyphen"/>ble the reviving ſometimes of ſuch as theſe, hath beene cryed up a<g ref="char:EOLhyphen"/>mongſt the Papiſts for a greater Miracle then the raiſing up of a ſup<g ref="char:EOLhyphen"/>poſed <hi>Samuel,</hi> by the Wirch of <hi>Endor.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Verid.</speaker>
+               <p>All that you ſay is ſo certaine in this kinde, that abundant
+<pb n="24" facs="tcp:117803:14"/>Inſtances and Examples are given to comment it, hiſtorified both in men and women, by <hi>Lem<g ref="char:EOLhyphen"/>nius</hi> in his hidden Miracles of Nature,
+<note n="(h)" place="margin">
+                     <hi>Lib.</hi> 2. <hi>cap.</hi> 3.</note> by <hi>Caſper 'Dornavins</hi> in his Phiſicall diſcourſe of Apoplexies, by <hi>Cornarins</hi> in his rare and admira<g ref="char:EOLhyphen"/>ble Hiſtories,
+<note n="(i)" place="margin">
+                     <hi>Hiſt.</hi> 14. <hi>pag.</hi> 47 48.</note> as alſo by <hi>Luſitanus,</hi>
+                  <note n="(k)" place="margin">
+                     <hi>Curat.</hi> 23. <hi>cent.</hi> 4.</note> chiefely by <hi>Schenkins</hi> in his Medicinable Obſer<g ref="char:EOLhyphen"/>vations
+<note n="(l)" place="margin">
+                     <hi>Tom.</hi> 1. <hi>obſerv.</hi> 150. <hi>pag.</hi> 175.</note> in his ſecond booke,
+<note n="(m)" place="margin">
+                     <hi>Obſerv.</hi> 17.33. <hi>&amp; obſerv.</hi> 19. <hi>pag.</hi> 40.</note> and in the 288. and 289 obſervations of his fourth booke, <hi>pag</hi> 684.683.687. theſe with <hi>Felix Platerus</hi> and other Phyſitians, giving cautions in theſe caſes and diſeaſes, not to bee too haſty to bury ſuch, though ſeeming<g ref="char:EOLhyphen"/>ly dead, and by burning old Rags and Feathers, and holding them to their noſes, as alſo by ſetting a glaſſe brim full of water on their bare breſts to try the leaſt motion of the water, and by the leaſt bearing of the purſe or breathing, to diſcerne any rellicks of life ere they bee haſtily inter<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed.</p>
+            </sp>
+            <sp>
+               <speaker>Scept.</speaker>
+               <p>I remember <hi>Thuanus</hi> in his Hiſtory, <hi>lib.</hi> 32. <hi>pag.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>66 re<g ref="char:EOLhyphen"/>cires a ſtrange living dead man, <hi>Anno</hi> 156 called <hi>Lewis</hi> in the com<g ref="char:EOLhyphen"/>buſtion betwixt the <hi>Gu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lphs</hi> and <hi>G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bellines</hi> in Italy, one ſiding with an Emperour, another with the Pope (as ſome ſince with a King and Biſhops, ſome with Senatours) being ſhot in the neck, and earth lightly throwne on him as dead, the next day revived, as hee was all ſqualled with blood and mire, yea our own Hidropoet <hi>Taylor</hi> in his Travells to <hi>Ham<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ough,</hi> tells us of an ungratefull Gentlemanly <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fe tooke downe from the Gallowes (in a Moone light night where hee had hung all day by a Carter and his Sonne, who being ſupped and lodged by them that night, and paying his yong Hoſt and bed fellow with the ſtealing of his money and cloathes and his old Hoſt with his beſt Horſe ſtolne out of his ſtable, being by them pur<g ref="char:EOLhyphen"/>ſued and apprehended againe, was hanged by them juſt in the ſame place and poſture where they firſt found him</p>
+            </sp>
+            <sp>
+               <speaker>Veria.</speaker>
+               <p>That Thiefe, as more cunning then <hi>Cacus</hi> or <hi>Scyron,</hi> or our late <hi>Mongering Ratſey,</hi> or <hi>Claveri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> (like Pictures, Peacocks, painted cloaths, B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lls, and Bacon) was much better for hanging, like one <hi>Hogg</hi> which the Lord <hi>Bacon</hi> hanged to make him Bacon, claim<g ref="char:EOLhyphen"/>ing kindred of him; but wee neede not go ſo far as <hi>Hamburge</hi> in this kinde, if it bee true which is reported of a drunken Player, act<g ref="char:EOLhyphen"/>ing
+<pb n="25" facs="tcp:117803:14"/>ever the Clowne or the Vice, buried in his deepe, dead, and drun<g ref="char:EOLhyphen"/>ken ſleepe in a great plague; and of a woman who was ſo dead drunk, that ſhee wakened not till the earth was throwne on her Coffin, and ſhee askt if there were any good Ale to bee had in that new World: ſome alſo have beene reported dead, like that <hi>Redivivns Beza,</hi> who were not dead, as I have read my ſelfe in print, mangled by the Iriſh <hi>Wolfe,</hi> called Rebell; and I was glad to heare it, when I was oft told of my divulged death.</p>
+            </sp>
+            <sp>
+               <speaker>Scept.</speaker>
+               <p>
+                  <hi>Aſt non mittenda ſeria ludo,</hi> leaving thoſe Jocoſerious paſ<g ref="char:EOLhyphen"/>ſages: If any Spectars have been ſeen, ſo lively repreſenting the ſhapes of the dead, in voice, colour, Lineaments, and proportion, that they have been as ſtrongly conceited to be perſons male or female long ſince departed, as <hi>Saul</hi> conceited the Witches Spectar to be <hi>Samuell,</hi> or <hi>Iſaack Jacob</hi> to be <hi>E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> an:</hi> in ſuch and the like impoſtures or deluſions, or in any ſuch moleſtations of houſes or Perſons, poſſeſ<g ref="char:EOLhyphen"/>ſed, obſeſſed or troubled, as now <hi>Merridayes</hi> houſe in <hi>Greenwich,</hi> and many Nunneries, and Monaſteries, as I have read of in <hi>Lonicers Theatre of Examples,</hi> and in all the Pageants that Sathan by him<g ref="char:EOLhyphen"/>ſelf, or his Witches, Wizzards, and Magitians have acted to admira<g ref="char:EOLhyphen"/>tion in the Earth, Seas, Aire, Elements, or in, on, or by Creatures animate, or inanimate. I pray you improve you Hiſtori<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all Philoſo<g ref="char:EOLhyphen"/>phicall, and Theologicall knowledge, to diſcover Sathans Powers, Pollicies, and Poſtures; in his Viſions, Apparitions, Oracles Mira<g ref="char:EOLhyphen"/>cles, Auguries. Propheſies, Revelations, and diverſified diſturbances of Men, Beaſts, and all ſublunaries, by his owne immediate might, and malice, and by his Agents, and Inſtruments of all ſorts.</p>
+            </sp>
+            <sp>
+               <speaker>Verid.</speaker>
+               <p>
+                  <hi>Magnum opus aggredior, &amp; quae non virthus iſtis conve<g ref="char:EOLhyphen"/>niunt, nec tam ſenilibus annis:</hi> You ſet me more then an Herculian task, and too heavy for my aged ſhoulders: yet as ſome ſtearnly cenſure me to have a youthfull wit and memory which indeed is my beſt treaſury, I will tub up theſe old readings for your ſatisfaction, which in my painfull youth I lodged in my Magazine: and herein as I have a large Champion to walk in, and a vaſt Ocean to ſaile in; I will firſt ſhew what may be done to admiration without Sathan. Se<g ref="char:EOLhyphen"/>condly what, and how, by Sathan. Thirdly, what he and his agents cannot doe, in his limmitted power Fourthly, his impoſtures in what is done by him or his: Poſitively in themſelves, and Compa<g ref="char:EOLhyphen"/>ratively paralleld, with Gods owne power in, and by his Prophets,
+<pb n="26" facs="tcp:117803:15"/>and ſervants, and in the proſecution of any of theſe, Hawk-like I ſeem to fetch a large compaſſe; yet at laſt, I hope to flye up to the head, and to pronounce what you deſire, for to ſatisfie the greateſt curioſities in myſticall knowledge, with pleaſure and profit. To proſecute all which in order, method being the mother of memory.</p>
+               <p>Firſt, many ſtrange and admirable things may be done by naturall magick, as its called by application, of naturall cauſes with effects; as alſo by ſympathies, and antipathies; as alſo by Art, and artificiall inſtruments; as alſo by Legerdemaine, and ſlight of hand, as I have ſeen by ſome Gypſies and Juglers; as alſo by the knowledge of the Opticks, and by the Mathematicks, as I ſhall by degrees give you inſtances of all theſe, without any unlawfull Magick; for you muſt know that the word <hi>Magus</hi> a Magitian, as alſo <hi>Magurus,</hi> like the word Sophiſter and Tyrant ere abuſed, were not ſo odious and hate<g ref="char:EOLhyphen"/>full at firſt, as now they are, as may bee gathered from <hi>Proclus</hi>
+                  <note n="(a)" place="margin">
+                     <hi>Lib. de Ma<g ref="char:EOLhyphen"/>gia</hi>
+                  </note> and <hi>Pſellus,</hi>
+                  <note n="(b)" place="margin">
+                     <hi>L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>b de demo<g ref="char:EOLhyphen"/>nibus.</hi>
+                  </note> for theſe were counted and called Magitians as knew not occult and hidden cauſes of things, and how to apply theſe Vertues, <hi>latent</hi> in nature, and un<g ref="char:EOLhyphen"/>knowne to vulgar capacities to admirable ef<g ref="char:EOLhyphen"/>fects, and ſuch a Magitian was <hi>Adam</hi> in his Innocency, who was able by his created faculties to give names to al the creatures, better the <hi>Var<g ref="char:EOLhyphen"/>ro, Nonnius, Iſidore,</hi> or any mortall man ſince, ac<g ref="char:EOLhyphen"/>cording to their Natures,
+<note n="(c)" place="margin">
+                     <hi>As Milvus id eſt Molliter Vo<g ref="char:EOLhyphen"/>lans, Lepus. Levi<g ref="char:EOLhyphen"/>pes, Vulpes Volu<g ref="char:EOLhyphen"/>pes, Culumba Colens, Lumbos, Ferrum a feriendo sum al<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>is infinitis.</hi>
+                  </note> yea better the <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> or <hi>Daniel,</hi> though the one learned in all the learning of the Aegyptians, the other of the Cal<g ref="char:EOLhyphen"/>deans, yea better then <hi>Solomon</hi> himſelfe, whom <hi>Joſephus</hi> in this nature makes a Magitian; I perſwade my ſelfe a bet<g ref="char:EOLhyphen"/>ter Phyloſopher then either, <hi>Plato, Ariſtotle, Seneca,</hi> or all meere hu<g ref="char:EOLhyphen"/>maniſts met in one, having not onely ſupernaturall but naturall knowledge, as the Prophets and Apoſtles had the ſpirit by inſpirati<g ref="char:EOLhyphen"/>on; now amongſt the reſt famous for ſuch Philoſophick Magitians in their Times, where the Platoniſts. Peripateticks, and Pithagorians, as in our Moderne Times, <hi>Zabarell, Scaliger, Zanardas,</hi> and hundreds more; amongſt the Ancient Gaulls, the Druides, amongſt the An<g ref="char:EOLhyphen"/>cient Indians and Aethiopians, the Bragmans and Gymnoſophiſts, amongſt the Perſians their <hi>Magi,</hi> ſuch as theſe, who came ſo farre
+<pb n="27" facs="tcp:117803:15"/>to worſhip Chriſt, bred from the Schoole of <hi>Daniel,</hi> out of which <hi>Magi</hi> the Perſians oft did chuſe their Kings. <hi>Strabo</hi>
+                  <note n="(d)" place="margin">
+                     <hi>Lib.</hi> 15. <hi>&amp; lib.</hi> 16.</note> parallelling them with the wiſe Chal<g ref="char:EOLhyphen"/>deans amongſt the Babylonians, and in the cor<g ref="char:EOLhyphen"/>reſpondency of their ſtudies, with <hi>Moſes</hi> the Hebrew their profeſſion according to <hi>Tully,
+<note n="(e)" place="margin">
+                        <hi>Lib.</hi> 1. <hi>de di<g ref="char:EOLhyphen"/>vinatione.</hi>
+                     </note> Celius Rhodiginus,</hi>
+                  <note n="(f)" place="margin">
+                     <hi>Lib.</hi> 3. <hi>cap.</hi> 42. <hi>antiq. lect.</hi>
+                  </note> and <hi>Plinny</hi>
+                  <note n="(g)" place="margin">
+                     <hi>Hiſt. lib.</hi> 20.</note> be<g ref="char:EOLhyphen"/>ing <hi>divinorum ſcientiam &amp; <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ul<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um,</hi> the know<g ref="char:EOLhyphen"/>ledge and obſervance for the moſt part of divine things, or its <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ltior ſanctio<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Philoſophia,</hi> a more high and ſublime Philoſophy then ordina<g ref="char:EOLhyphen"/>ry, and of a large extent, comprizing Phiſicks, Metaphiſicks, and Aſtrology, in which kinde of naturall Magick or ſublime Philoſophy, what ſtudent deſires further to bee informed with the helpe of a Library, I refer him to the workes of <hi>Ariſtotle,
+<note n="(h)" place="margin">
+                        <hi>Lib. de admi<g ref="char:EOLhyphen"/>randa eruditio<g ref="char:EOLhyphen"/>ne.</hi>
+                     </note> Plinny,
+<note n="(i)" place="margin">
+                        <hi>Lib.</hi> 2. <hi>preſer<g ref="char:EOLhyphen"/>tim.</hi>
+                     </note> Proclus,
+<note n="(k)" place="margin">
+                        <hi>De ſacrifici<g ref="char:EOLhyphen"/>is &amp; Magia.</hi>
+                     </note> Philo,</hi> in his booke of ſpeciall Lawes, <hi>Auguſtine</hi> in his City of God <hi>lib.</hi> 22. <hi>cap.</hi> 4.5. <hi>Albertus</hi> called <hi>Magnus</hi> in his ſecond Booke of Mineralls, <hi>tract.</hi> 2. <hi>cap.</hi> 1. <hi>v.</hi> 17. <hi>Ficinus</hi> in his fourth booke of <hi>Platoes</hi> Theolo<g ref="char:EOLhyphen"/>gy, <hi>cap.</hi> 2 <hi>Cardan</hi> in his ſubtleties, <hi>Fracaſtorius</hi> in his ſympathies, <hi>Pererius de Magia, Del<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ius</hi> in his Magicall diſquiſitions his fellow Jeſuite <hi>Tyraeus</hi> in his bookes of places poſſeſſed, and of the Appari<g ref="char:EOLhyphen"/>tions of Spirits and Devills, as alſo with <hi>Sirienns</hi> his ninth booke of Fate, with <hi>Medina</hi> in his ſecond booke of a right faith in God <hi>cap</hi> 7. with <hi>Laurentius Ananias</hi> in his booke of the nature of Devills with <hi>Bartholomew Sybilla</hi> in his third Decade of ſtrange Queſtions, <hi>queſt.</hi> 3.8 and with our Moderne <hi>Gregory de V<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lentia,</hi> 22. <hi>diſp.</hi> 6 <hi>q<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>punct.</hi> 3. and the cleare <hi>Valeſins</hi> in his ſacred Philoſophy. <hi>cap.</hi> 3.22.</p>
+               <p>Now by this meer naturall magick, or in plain tearms, the produ<g ref="char:EOLhyphen"/>cing of Art and nature into practice; ſuch rare and exquiſite things have been done, or may be done, eſpecially by inſtruments, without any more confederacy with any Witch, or ſpirit, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen with a Turke, a Pope, or a Canniball; yea, I perſwade my ſelf I could do ſuch things my ſelf, as I have heard, and read, and partly ſeen, that the common people which doe not <hi>(rerum cogn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſcere can<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>as)</hi> know the cauſes of many things, (more then a blinde man colours) would take me for as great a Conjurer as ever <hi>Cornelius Agrippa,</hi> or Doctour <hi>Faustus,</hi>
+                  <pb n="28" facs="tcp:117803:16"/>or for as great a Witch as <hi>Circes,</hi> or <hi>Medea;</hi> at leaſt as great a Jug<g ref="char:EOLhyphen"/>gler as once my neighbour <hi>John a Ley,</hi> or <hi>Hocus Pocus,</hi> or ſome cunning Wiſe man, ſuch as Mr. <hi>Lilly</hi> is divulged, as though he were a ſecond <hi>Merlin;</hi> when for all this, I could make a child of ſix years old do the like things preſently and give as good a Reaſon of what I did (as I perſwade my ſelf Mr. <hi>Booker,</hi> and Mr. <hi>Lilly</hi> can give of their artificiall undiabolized Predictions) as I can give a Reaſon why I am hot or warm, when I am in the Sun, or at the fire.</p>
+            </sp>
+            <sp>
+               <speaker>Scept.</speaker>
+               <p>Indeed Sir, I perſwade my ſelf Ignorance is the mother of all admiration; it being the Fate of all abſtruſe, and myſticall things: that <hi>non <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſi peracta laudantur:</hi> they are not praiſed till done, it being no wiſdome, we ſay in Yorkſhire, to let fooles ſee half done deeds, or to expoſe myſterious knowledge to ignorants chief<g ref="char:EOLhyphen"/>ly to arrogants, which is as to caſt pearls to ſwine, or to offer ex<g ref="char:EOLhyphen"/>quiſite muſique to deaf men; yet I pray you Sir, make me ſo happy in the curious knowledge of what yourſelf, or ſome Artiſt can doe by Art and Nature, yet ſtearing far enough from all Rocks of un<g ref="char:EOLhyphen"/>lawfull magicall confederacy with any Witch or ſpirit, except with the ſpirit of God, and your own ſpirit.</p>
+            </sp>
+            <sp>
+               <speaker>Verid.</speaker>
+               <p>Sir, your queſtion is ſhort, but the Reſolution long and large, the Sun being at the point of high noon, c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſeth the Son of my mother to thinke that he hath a belly which hath no ears to hear it ſhould be wronged in its ordinary dyet of feeding meat, by mentall diſhes catered by a diſcourſive tongue and brain; when therefore I have given a ſop to this craving <hi>Cerberus,</hi> and payed my Kitchin tribute to this <hi>Minetaure;</hi> being a true Engliſh-man, impatient of the faſts of the Iriſh with his ſhamrocks, of the Spaniard with his Lemmons, and the Welſh with her Sir <hi>Jeff<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ey</hi> Leck: after dinner I ſhall improve my beſt to reſolve your Propoſals in what nature ſoe<g ref="char:EOLhyphen"/>ver you pleaſe to propound them, or at any other time at your beſt leaſure and pleaſure.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
